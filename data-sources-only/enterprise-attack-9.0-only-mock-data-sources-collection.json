@@ -1,6 +1,6 @@
 {
     "type": "bundle",
-    "id": "bundle-41e11362-13ed-4d6a-a078-e73808b58b15",
+    "id": "bundle-5f3fdb07-c27b-4b1a-a945-27484fe8eada",
     "spec_version": "2.1",
     "objects": [
         {
@@ -16,210 +16,192 @@
             "object_marking_refs": [],
             "x_mitre_contents": [
                 {
-                    "object_ref": "x-mitre-data-source--b8042d0d-c405-425d-8f21-e2c697364539",
-                    "object_modified": "2021-07-19T15:43:24.808815Z"
+                    "object_ref": "x-mitre-data-source--6da9ab38-437f-4e2f-b24c-f0da3a8ce441",
+                    "object_modified": "2021-07-19T18:59:32.328889Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-source--cafae37c-f901-4f34-b2f8-72b026de3b9b",
-                    "object_modified": "2021-07-19T15:43:24.810664Z"
+                    "object_ref": "x-mitre-data-source--1e0d83f8-86bb-42c2-a39c-c717c763524c",
+                    "object_modified": "2021-07-19T18:59:32.331932Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-source--a7f6b6a0-0e4d-4949-b142-aa7e1db96b8c",
-                    "object_modified": "2021-07-19T15:43:24.812051Z"
+                    "object_ref": "x-mitre-data-source--e9565b6a-e97c-497b-be40-95234cdb3024",
+                    "object_modified": "2021-07-19T18:59:32.334845Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-source--1d97c23a-594a-4dbc-9afe-e03fa604c233",
-                    "object_modified": "2021-07-19T15:43:24.813147Z"
+                    "object_ref": "x-mitre-data-source--d3a30ccf-4e0d-4dbf-acd4-900f76775376",
+                    "object_modified": "2021-07-19T18:59:32.336603Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-source--d07179c4-89a8-41c7-87f7-e078097b38ae",
-                    "object_modified": "2021-07-19T15:43:24.814529Z"
+                    "object_ref": "x-mitre-data-source--e2085389-bc6f-4ca8-8eba-1815279b5107",
+                    "object_modified": "2021-07-19T18:59:32.337964Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-component--1ddb3175-deb5-48c5-bf1d-c5b67eaf1a85",
-                    "object_modified": "2021-07-19T15:43:24.816145Z"
+                    "object_ref": "x-mitre-data-component--b7360ee0-c3a2-4338-a3b6-31944f76d71b",
+                    "object_modified": "2021-07-19T18:59:32.338891Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-component--b00f4f76-633e-4514-95b1-ca13df4fdd4d",
-                    "object_modified": "2021-07-19T15:43:24.818114Z"
+                    "object_ref": "x-mitre-data-component--17453a78-737d-42d4-ac57-fede30d5b287",
+                    "object_modified": "2021-07-19T18:59:32.340325Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-component--14cf3dee-24e4-4e0d-97e2-4cecc96c524e",
-                    "object_modified": "2021-07-19T15:43:24.820462Z"
+                    "object_ref": "x-mitre-data-component--75f4e10c-ee4e-400c-86d2-c63a00269512",
+                    "object_modified": "2021-07-19T18:59:32.342537Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-component--b4c2a29d-7634-428c-b5ba-49729540f11c",
-                    "object_modified": "2021-07-19T15:43:24.821507Z"
+                    "object_ref": "x-mitre-data-component--f7283eae-9cb6-420b-aa47-1c38e67cf105",
+                    "object_modified": "2021-07-19T18:59:32.343642Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-component--82741934-6b5c-4749-a221-c32b2d52a329",
-                    "object_modified": "2021-07-19T15:43:24.822912Z"
+                    "object_ref": "x-mitre-data-component--a0aed7ed-2119-4a7b-9a15-9c6fd5520416",
+                    "object_modified": "2021-07-19T18:59:32.345217Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-component--ad73cea2-3771-4695-9114-8955af6616d5",
-                    "object_modified": "2021-07-19T15:43:24.825335Z"
+                    "object_ref": "x-mitre-data-component--176e3fd0-477f-4073-a654-7a62c101a9b3",
+                    "object_modified": "2021-07-19T18:59:32.347399Z"
                 },
                 {
-                    "object_ref": "x-mitre-data-component--ddec85f4-1e01-4153-8ca3-39f17da830c0",
-                    "object_modified": "2021-07-19T15:43:24.826680Z"
+                    "object_ref": "x-mitre-data-component--f79594c6-204d-4fd5-b8fa-9467c6ae92ca",
+                    "object_modified": "2021-07-19T18:59:32.349385Z"
                 },
                 {
-                    "object_ref": "relationship--95f4ae00-a6dd-49c8-8afe-90ca186a5ca5",
-                    "object_modified": "2021-07-19T15:43:24.828299Z"
+                    "object_ref": "relationship--9384c649-75f5-4ef0-b303-81426893a72d",
+                    "object_modified": "2021-07-19T18:59:32.350531Z"
                 },
                 {
-                    "object_ref": "relationship--9bfab5ca-6730-4932-b18a-3bae7e9927a3",
-                    "object_modified": "2021-07-19T15:43:29.440942Z"
+                    "object_ref": "relationship--fca69aa0-c1ef-410c-a322-2341140ee9af",
+                    "object_modified": "2021-07-19T18:59:37.948876Z"
                 },
                 {
-                    "object_ref": "relationship--d3b988d5-3086-46e0-a4ec-266816c31bd0",
-                    "object_modified": "2021-07-19T15:43:29.442229Z"
+                    "object_ref": "relationship--c0ed38e2-5df1-485a-ac62-0db54b6a75e4",
+                    "object_modified": "2021-07-19T18:59:37.950176Z"
                 },
                 {
-                    "object_ref": "relationship--37592285-1c07-48fe-ad55-ea2f710dfa92",
-                    "object_modified": "2021-07-19T15:43:29.444148Z"
+                    "object_ref": "relationship--530eb03b-9e5a-4c0e-ac44-ae7d2ff6d046",
+                    "object_modified": "2021-07-19T18:59:37.951589Z"
                 },
                 {
-                    "object_ref": "relationship--56952e34-dbfe-4463-b5ee-d819ba246ec1",
-                    "object_modified": "2021-07-19T15:43:29.445938Z"
+                    "object_ref": "relationship--fed285ed-d7c1-416a-bee7-953d2d9ba503",
+                    "object_modified": "2021-07-19T18:59:37.954684Z"
                 },
                 {
-                    "object_ref": "relationship--30b29f7e-7246-4f03-a4bf-5d62af82020b",
-                    "object_modified": "2021-07-19T15:43:29.446932Z"
+                    "object_ref": "relationship--94ca966e-c155-4e69-ac82-b9b8a5d1169c",
+                    "object_modified": "2021-07-19T18:59:37.959321Z"
                 },
                 {
-                    "object_ref": "relationship--b6d35afa-9eb2-4d5e-81b1-a0f1e7f9066c",
-                    "object_modified": "2021-07-19T15:43:29.448759Z"
+                    "object_ref": "relationship--21d15713-437b-47e7-8b1a-61f24f539cb4",
+                    "object_modified": "2021-07-19T18:59:37.961623Z"
                 },
                 {
-                    "object_ref": "relationship--386def29-77b5-48bb-95a8-7ae02eefb3a6",
-                    "object_modified": "2021-07-19T15:43:29.450614Z"
+                    "object_ref": "relationship--02a7d262-9e24-4dc6-a7dc-d42117dd39dd",
+                    "object_modified": "2021-07-19T18:59:37.963527Z"
                 },
                 {
-                    "object_ref": "relationship--0b9e48bf-888c-4a6b-9afa-ad565623a219",
-                    "object_modified": "2021-07-19T15:43:29.451754Z"
+                    "object_ref": "relationship--aa02dcac-34ac-4068-8174-58b25279a067",
+                    "object_modified": "2021-07-19T18:59:37.965876Z"
                 },
                 {
-                    "object_ref": "relationship--ef0bc96d-e601-47be-adb7-2367ac4a858c",
-                    "object_modified": "2021-07-19T15:43:29.452758Z"
+                    "object_ref": "relationship--858bbf1c-7ebf-4975-9c97-8625cc4164ba",
+                    "object_modified": "2021-07-19T18:59:37.967328Z"
                 },
                 {
-                    "object_ref": "relationship--745591d9-52d1-4eef-ae3e-e66aa083e17b",
-                    "object_modified": "2021-07-19T15:43:29.455139Z"
+                    "object_ref": "relationship--c6649e53-9857-43ba-8cab-a0bb93baeb5f",
+                    "object_modified": "2021-07-19T18:59:37.970417Z"
                 },
                 {
-                    "object_ref": "relationship--6d6e2a38-eb4e-419d-a43a-d9651404487b",
-                    "object_modified": "2021-07-19T15:43:29.456986Z"
+                    "object_ref": "relationship--50749912-8245-43ab-9bb5-a7f270f00f1b",
+                    "object_modified": "2021-07-19T18:59:37.973298Z"
                 },
                 {
-                    "object_ref": "relationship--29bf8740-2836-45fd-87c1-15a2bfd45caa",
-                    "object_modified": "2021-07-19T15:43:29.458429Z"
+                    "object_ref": "relationship--b648d14d-cf75-4a9f-837b-55188ddabc91",
+                    "object_modified": "2021-07-19T18:59:37.976534Z"
                 },
                 {
-                    "object_ref": "relationship--d1bebdda-269a-4018-a452-9626af4fd11c",
-                    "object_modified": "2021-07-19T15:43:29.460912Z"
+                    "object_ref": "relationship--76e8ef72-9e28-41df-84e1-2c1569372415",
+                    "object_modified": "2021-07-19T18:59:37.979220Z"
                 },
                 {
-                    "object_ref": "relationship--00f11155-b12d-4261-878f-ace9f34ecb3a",
-                    "object_modified": "2021-07-19T15:43:29.463085Z"
+                    "object_ref": "relationship--bd34cf80-fc8a-4815-8a23-a86f531f4f71",
+                    "object_modified": "2021-07-19T18:59:37.984117Z"
                 },
                 {
-                    "object_ref": "relationship--2b12b8d5-c825-4917-93b9-e53d1a4dadeb",
-                    "object_modified": "2021-07-19T15:43:29.465637Z"
+                    "object_ref": "relationship--85d9d05d-a6e8-4268-997a-44f7e468bc8f",
+                    "object_modified": "2021-07-19T18:59:37.986151Z"
                 },
                 {
-                    "object_ref": "attack-pattern--2bce5b30-7014-4a5d-ade7-12913fe6ac36",
-                    "object_modified": "2021-07-19T15:43:29.624461Z"
+                    "object_ref": "relationship--f821bc1c-7209-4123-a46c-f72963ceab3c",
+                    "object_modified": "2021-07-19T18:59:37.988117Z"
                 },
                 {
-                    "object_ref": "attack-pattern--5372c5fe-f424-4def-bcd5-d3a8e770f07b",
-                    "object_modified": "2021-07-19T15:43:29.624461Z"
+                    "object_ref": "relationship--e3c3382d-bf7e-4e3d-92ef-3aaeca716cbb",
+                    "object_modified": "2021-07-19T18:59:37.992358Z"
                 },
                 {
-                    "object_ref": "attack-pattern--5d2be8b9-d24c-4e98-83bf-2f5f79477163",
-                    "object_modified": "2021-07-19T15:43:29.624461Z"
+                    "object_ref": "relationship--431746d3-270e-4198-a443-9fc26df2f07f",
+                    "object_modified": "2021-07-19T18:59:37.994710Z"
                 },
                 {
-                    "object_ref": "attack-pattern--ea016b56-ae0e-47fe-967a-cc0ad51af67f",
-                    "object_modified": "2021-07-19T15:43:29.624461Z"
+                    "object_ref": "attack-pattern--57a3d31a-d04f-4663-b2da-7df8ec3f8c9d",
+                    "object_modified": "2021-07-19T18:59:38.238203Z"
                 },
                 {
-                    "object_ref": "attack-pattern--35187df2-31ed-43b6-a1f5-2f1d3d58d3f1",
-                    "object_modified": "2021-07-19T15:43:29.624461Z"
+                    "object_ref": "attack-pattern--2fee9321-3e71-4cf4-af24-d4d40d355b34",
+                    "object_modified": "2021-07-19T18:59:38.238203Z"
+                },
+                {
+                    "object_ref": "attack-pattern--3c4a2599-71ee-4405-ba1e-0e28414b4bc5",
+                    "object_modified": "2021-07-19T18:59:38.238203Z"
+                },
+                {
+                    "object_ref": "attack-pattern--9efb1ea7-c37b-4595-9640-b7680cd84279",
+                    "object_modified": "2021-07-19T18:59:38.238203Z"
+                },
+                {
+                    "object_ref": "attack-pattern--3ee16395-03f0-4690-a32e-69ce9ada0f9e",
+                    "object_modified": "2021-07-19T18:59:38.238203Z"
                 }
             ]
         },
         {
-            "id": "x-mitre-data-source--b8042d0d-c405-425d-8f21-e2c697364539",
+            "id": "x-mitre-data-source--6da9ab38-437f-4e2f-b24c-f0da3a8ce441",
             "type": "x-mitre-data-source",
-            "created": "2021-07-19T15:43:24.808815Z",
-            "modified": "2021-07-19T15:43:24.808815Z",
+            "created": "2021-07-19T18:59:32.328889Z",
+            "modified": "2021-07-19T18:59:32.328889Z",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Source Veniam",
+            "name": "Data Source Laborum",
             "external_references": [
                 {
-                    "external_id": "DS8083",
-                    "url": "https://attack.mitre.org/datasources/DS8083",
+                    "external_id": "DS6941",
+                    "url": "https://attack.mitre.org/datasources/DS6941",
                     "source_name": "mitre-attack"
                 },
                 {
-                    "source_name": "Price-Wheeler",
-                    "description": "Price-Wheeler. (2021). Dolore et esse aliqua. Retrieved July 19, 2021",
+                    "source_name": "Mcdonald, Cortez and Lawrence",
+                    "description": "Mcdonald, Cortez and Lawrence. (2021). Sint excepteur laborum irure ut ut eu. Retrieved July 19, 2021",
                     "url": "https://attack.mitre.org"
                 },
                 {
-                    "source_name": "Martin Inc",
-                    "description": "Martin Inc. (2021). Duis sed labore incididunt et. Retrieved July 19, 2021",
+                    "source_name": "Campbell, Caldwell and Ford",
+                    "description": "Campbell, Caldwell and Ford. (2021). Minim velit anim pariatur exercitation. Retrieved July 19, 2021",
                     "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Aute ullamco proident adipiscing fugiat duis. Ad officia irure voluptate labore id ipsum laboris, eu et deserunt sed elit, voluptate eu commodo do eiusmod aute do in.(Citation: Price-Wheeler)(Citation: Martin Inc)",
-            "x_mitre_platforms": [
-                "Azure AD",
-                "Office 365",
-                "Linux",
-                "SaaS"
-            ],
-            "x_mitre_collection_layers": [
-                "anim"
-            ],
-            "x_mitre_contributors": [
-                "Herbert Examplecontributor"
-            ],
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "x-mitre-data-source--cafae37c-f901-4f34-b2f8-72b026de3b9b",
-            "type": "x-mitre-data-source",
-            "created": "2021-07-19T15:43:24.810664Z",
-            "modified": "2021-07-19T15:43:24.810664Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Source Aliquip",
-            "external_references": [
-                {
-                    "external_id": "DS3560",
-                    "url": "https://attack.mitre.org/datasources/DS3560",
-                    "source_name": "mitre-attack"
                 },
                 {
-                    "source_name": "Morris-Hancock",
-                    "description": "Morris-Hancock. (2021). Nisi velit ut incididunt. Retrieved July 19, 2021",
+                    "source_name": "Fisher Ltd",
+                    "description": "Fisher Ltd. (2021). Magna quis anim et. Retrieved July 19, 2021",
                     "url": "https://attack.mitre.org"
                 }
             ],
-            "description": "Eu aute veniam in ex officia minim commodo, cupidatat pariatur aute excepteur magna sint qui tempor, mollit adipiscing est fugiat cillum aliquip. Excepteur ipsum incididunt aliquip qui tempor officia.(Citation: Morris-Hancock)",
+            "description": "Fugiat lorem non voluptate, ipsum incididunt culpa exercitation in deserunt irure, eu qui sed sit mollit magna. Nostrud sunt cupidatat aliqua anim aliquip.(Citation: Mcdonald, Cortez and Lawrence)(Citation: Campbell, Caldwell and Ford)(Citation: Fisher Ltd)",
             "x_mitre_platforms": [
-                "Azure AD",
+                "macOS",
                 "Network",
+                "IaaS",
+                "SaaS",
                 "Office 365"
             ],
             "x_mitre_collection_layers": [
-                "proident"
+                "fugiat",
+                "amet",
+                "esse"
             ],
             "x_mitre_contributors": [
                 "Herbert Examplecontributor"
@@ -232,78 +214,45 @@
             "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
         },
         {
-            "id": "x-mitre-data-source--a7f6b6a0-0e4d-4949-b142-aa7e1db96b8c",
+            "id": "x-mitre-data-source--1e0d83f8-86bb-42c2-a39c-c717c763524c",
             "type": "x-mitre-data-source",
-            "created": "2021-07-19T15:43:24.812051Z",
-            "modified": "2021-07-19T15:43:24.812051Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Source Veniam",
-            "external_references": [
-                {
-                    "external_id": "DS9881",
-                    "url": "https://attack.mitre.org/datasources/DS9881",
-                    "source_name": "mitre-attack"
-                },
-                {
-                    "source_name": "Thornton Inc",
-                    "description": "Thornton Inc. (2021). Cupidatat est quis aute eiusmod aliqua minim, aliqua labore sed laborum anim irure. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Duis ipsum sit aute nisi officia et veniam, dolor cillum cillum aliquip, occaecat occaecat sit veniam qui sit anim culpa. Id ut ea deserunt veniam fugiat sint.(Citation: Thornton Inc)",
-            "x_mitre_platforms": [
-                "Linux",
-                "Containers",
-                "IaaS",
-                "Network",
-                "Windows",
-                "macOS"
-            ],
-            "x_mitre_collection_layers": [
-                "culpa",
-                "nulla",
-                "reprehenderit"
-            ],
-            "x_mitre_contributors": [
-                "Herbert Examplecontributor"
-            ],
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "x-mitre-data-source--1d97c23a-594a-4dbc-9afe-e03fa604c233",
-            "type": "x-mitre-data-source",
-            "created": "2021-07-19T15:43:24.813147Z",
-            "modified": "2021-07-19T15:43:24.813147Z",
+            "created": "2021-07-19T18:59:32.331932Z",
+            "modified": "2021-07-19T18:59:32.331932Z",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "name": "Data Source Nulla",
             "external_references": [
                 {
-                    "external_id": "DS4619",
-                    "url": "https://attack.mitre.org/datasources/DS4619",
+                    "external_id": "DS5309",
+                    "url": "https://attack.mitre.org/datasources/DS5309",
                     "source_name": "mitre-attack"
                 },
                 {
-                    "source_name": "Davis-Taylor",
-                    "description": "Davis-Taylor. (2021). Quis nostrud dolor aliqua sunt, cillum officia nisi cupidatat do amet, exercitation ut eiusmod voluptate laborum adipiscing tempor. Retrieved July 19, 2021",
+                    "source_name": "Wagner-Reese",
+                    "description": "Wagner-Reese. (2021). Ipsum amet consequat quis commodo veniam consequat dolor. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Hays, Singh and Green",
+                    "description": "Hays, Singh and Green. (2021). Eiusmod ipsum exercitation do enim commodo sunt qui. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Douglas Ltd",
+                    "description": "Douglas Ltd. (2021). Proident mollit commodo deserunt. Retrieved July 19, 2021",
                     "url": "https://attack.mitre.org"
                 }
             ],
-            "description": "Laborum ex in eiusmod veniam et. Commodo consectetur nisi amet.(Citation: Davis-Taylor)",
+            "description": "Exercitation quis occaecat cupidatat in enim. Minim enim ea mollit cupidatat.(Citation: Wagner-Reese)(Citation: Hays, Singh and Green)(Citation: Douglas Ltd)",
             "x_mitre_platforms": [
                 "macOS",
+                "Office 365",
                 "Google Workspace",
-                "IaaS",
-                "Containers",
-                "SaaS"
+                "Linux",
+                "Network"
             ],
             "x_mitre_collection_layers": [
-                "occaecat",
-                "adipiscing"
+                "duis",
+                "laboris"
             ],
             "x_mitre_contributors": [
                 "Herbert Examplecontributor"
@@ -316,36 +265,73 @@
             "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
         },
         {
-            "id": "x-mitre-data-source--d07179c4-89a8-41c7-87f7-e078097b38ae",
+            "id": "x-mitre-data-source--e9565b6a-e97c-497b-be40-95234cdb3024",
             "type": "x-mitre-data-source",
-            "created": "2021-07-19T15:43:24.814529Z",
-            "modified": "2021-07-19T15:43:24.814529Z",
+            "created": "2021-07-19T18:59:32.334845Z",
+            "modified": "2021-07-19T18:59:32.334845Z",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Source Duis",
+            "name": "Data Source Ad",
             "external_references": [
                 {
-                    "external_id": "DS5099",
-                    "url": "https://attack.mitre.org/datasources/DS5099",
+                    "external_id": "DS8206",
+                    "url": "https://attack.mitre.org/datasources/DS8206",
                     "source_name": "mitre-attack"
                 },
                 {
-                    "source_name": "Curtis, Deleon and Jenkins",
-                    "description": "Curtis, Deleon and Jenkins. (2021). Sint est voluptate irure amet enim elit proident. Retrieved July 19, 2021",
+                    "source_name": "Peterson, Butler and Walters",
+                    "description": "Peterson, Butler and Walters. (2021). Nisi commodo incididunt esse aliquip. Retrieved July 19, 2021",
                     "url": "https://attack.mitre.org"
                 }
             ],
-            "description": "Consectetur aute nulla et lorem, consequat aliquip minim eu sint aliqua nulla. Eiusmod ullamco tempor lorem commodo amet laborum.(Citation: Curtis, Deleon and Jenkins)",
+            "description": "Eu consequat consequat deserunt laboris do, esse lorem ea eiusmod dolore irure. Ex lorem proident quis.(Citation: Peterson, Butler and Walters)",
             "x_mitre_platforms": [
+                "SaaS",
                 "macOS",
-                "IaaS",
+                "Linux",
+                "Windows"
+            ],
+            "x_mitre_collection_layers": [
+                "elit",
+                "ea"
+            ],
+            "x_mitre_contributors": [
+                "Herbert Examplecontributor"
+            ],
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "x-mitre-data-source--d3a30ccf-4e0d-4dbf-acd4-900f76775376",
+            "type": "x-mitre-data-source",
+            "created": "2021-07-19T18:59:32.336603Z",
+            "modified": "2021-07-19T18:59:32.336603Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "name": "Data Source Pariatur",
+            "external_references": [
+                {
+                    "external_id": "DS2545",
+                    "url": "https://attack.mitre.org/datasources/DS2545",
+                    "source_name": "mitre-attack"
+                },
+                {
+                    "source_name": "Guzman-Rodriguez",
+                    "description": "Guzman-Rodriguez. (2021). Aute laboris aliqua occaecat. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Aute ullamco esse veniam aliquip nulla irure, excepteur proident aliquip in tempor velit. Sit lorem pariatur duis aliqua nisi non, incididunt mollit ex incididunt in enim cupidatat excepteur.(Citation: Guzman-Rodriguez)",
+            "x_mitre_platforms": [
+                "Containers",
                 "Windows",
                 "SaaS",
-                "Google Workspace"
+                "IaaS"
             ],
             "x_mitre_collection_layers": [
-                "aliqua",
-                "proident",
-                "sint"
+                "exercitation"
             ],
             "x_mitre_contributors": [
                 "Herbert Examplecontributor"
@@ -358,843 +344,748 @@
             "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
         },
         {
-            "id": "x-mitre-data-component--1ddb3175-deb5-48c5-bf1d-c5b67eaf1a85",
-            "type": "x-mitre-data-component",
-            "created": "2021-07-19T15:43:24.816145Z",
-            "modified": "2021-07-19T15:43:24.816145Z",
+            "id": "x-mitre-data-source--e2085389-bc6f-4ca8-8eba-1815279b5107",
+            "type": "x-mitre-data-source",
+            "created": "2021-07-19T18:59:32.337964Z",
+            "modified": "2021-07-19T18:59:32.337964Z",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Component Excepteur",
-            "x_mitre_data_source_ref": "x-mitre-data-source--b8042d0d-c405-425d-8f21-e2c697364539",
+            "name": "Data Source Ea",
             "external_references": [
                 {
-                    "source_name": "Walker PLC",
-                    "description": "Walker PLC. (2021). Sit veniam ea lorem culpa, est ex laborum anim, non sint occaecat ex fugiat ipsum sit. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
+                    "external_id": "DS5768",
+                    "url": "https://attack.mitre.org/datasources/DS5768",
+                    "source_name": "mitre-attack"
                 },
                 {
-                    "source_name": "Thomas, Morris and Kirk",
-                    "description": "Thomas, Morris and Kirk. (2021). Voluptate ullamco reprehenderit mollit incididunt et. Retrieved July 19, 2021",
+                    "source_name": "Diaz Ltd",
+                    "description": "Diaz Ltd. (2021). Et aute ut do exercitation minim eu consectetur, culpa esse nulla eu esse dolore sunt reprehenderit. Retrieved July 19, 2021",
                     "url": "https://attack.mitre.org"
                 }
             ],
-            "description": "Ut lorem et irure. Veniam excepteur nisi eiusmod id.(Citation: Walker PLC)(Citation: Thomas, Morris and Kirk)",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0.0"
-        },
-        {
-            "id": "x-mitre-data-component--b00f4f76-633e-4514-95b1-ca13df4fdd4d",
-            "type": "x-mitre-data-component",
-            "created": "2021-07-19T15:43:24.818114Z",
-            "modified": "2021-07-19T15:43:24.818114Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Component Aliqua",
-            "x_mitre_data_source_ref": "x-mitre-data-source--cafae37c-f901-4f34-b2f8-72b026de3b9b",
-            "external_references": [
-                {
-                    "source_name": "Hess LLC",
-                    "description": "Hess LLC. (2021). In labore minim non veniam nulla irure. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Russo-Perry",
-                    "description": "Russo-Perry. (2021). Et non sunt occaecat. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Robinson-Thompson",
-                    "description": "Robinson-Thompson. (2021). Ullamco ex non sit ex anim, lorem elit et velit voluptate. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Do ex pariatur aliquip voluptate exercitation nostrud, ad reprehenderit voluptate occaecat lorem laborum. Ea aute incididunt tempor fugiat nostrud anim exercitation.(Citation: Hess LLC)(Citation: Russo-Perry)(Citation: Robinson-Thompson)",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0.0"
-        },
-        {
-            "id": "x-mitre-data-component--14cf3dee-24e4-4e0d-97e2-4cecc96c524e",
-            "type": "x-mitre-data-component",
-            "created": "2021-07-19T15:43:24.820462Z",
-            "modified": "2021-07-19T15:43:24.820462Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Component Proident",
-            "x_mitre_data_source_ref": "x-mitre-data-source--cafae37c-f901-4f34-b2f8-72b026de3b9b",
-            "external_references": [
-                {
-                    "source_name": "Evans Ltd",
-                    "description": "Evans Ltd. (2021). Cillum est commodo aliquip amet, id adipiscing deserunt incididunt proident nostrud incididunt voluptate. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Laborum id do enim consequat qui sint. Occaecat in sint do dolor.(Citation: Evans Ltd)",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0.0"
-        },
-        {
-            "id": "x-mitre-data-component--b4c2a29d-7634-428c-b5ba-49729540f11c",
-            "type": "x-mitre-data-component",
-            "created": "2021-07-19T15:43:24.821507Z",
-            "modified": "2021-07-19T15:43:24.821507Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Component Magna",
-            "x_mitre_data_source_ref": "x-mitre-data-source--a7f6b6a0-0e4d-4949-b142-aa7e1db96b8c",
-            "external_references": [
-                {
-                    "source_name": "Mcdonald-Johnson",
-                    "description": "Mcdonald-Johnson. (2021). Consequat id deserunt excepteur aliquip ut, eu excepteur cillum aliqua magna officia deserunt. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Consectetur occaecat minim occaecat, cillum dolore eu commodo dolore enim. Aute ipsum velit mollit culpa cupidatat lorem.(Citation: Mcdonald-Johnson)",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0.0"
-        },
-        {
-            "id": "x-mitre-data-component--82741934-6b5c-4749-a221-c32b2d52a329",
-            "type": "x-mitre-data-component",
-            "created": "2021-07-19T15:43:24.822912Z",
-            "modified": "2021-07-19T15:43:24.822912Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Component Deserunt",
-            "x_mitre_data_source_ref": "x-mitre-data-source--1d97c23a-594a-4dbc-9afe-e03fa604c233",
-            "external_references": [
-                {
-                    "source_name": "Bishop, Fowler and Scott",
-                    "description": "Bishop, Fowler and Scott. (2021). Duis enim voluptate in. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Castro-Frazier",
-                    "description": "Castro-Frazier. (2021). Magna elit ea irure non est esse tempor. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Ut et aliquip labore sunt incididunt sint amet. Veniam eiusmod non dolor quis aute cupidatat do.(Citation: Bishop, Fowler and Scott)(Citation: Castro-Frazier)",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0.0"
-        },
-        {
-            "id": "x-mitre-data-component--ad73cea2-3771-4695-9114-8955af6616d5",
-            "type": "x-mitre-data-component",
-            "created": "2021-07-19T15:43:24.825335Z",
-            "modified": "2021-07-19T15:43:24.825335Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Component Esse",
-            "x_mitre_data_source_ref": "x-mitre-data-source--1d97c23a-594a-4dbc-9afe-e03fa604c233",
-            "external_references": [
-                {
-                    "source_name": "Peck Group",
-                    "description": "Peck Group. (2021). Eiusmod irure occaecat et. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Occaecat nisi ad elit commodo. Aliquip proident laborum aliqua id in tempor aliqua.(Citation: Peck Group)",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0.0"
-        },
-        {
-            "id": "x-mitre-data-component--ddec85f4-1e01-4153-8ca3-39f17da830c0",
-            "type": "x-mitre-data-component",
-            "created": "2021-07-19T15:43:24.826680Z",
-            "modified": "2021-07-19T15:43:24.826680Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Component Non",
-            "x_mitre_data_source_ref": "x-mitre-data-source--d07179c4-89a8-41c7-87f7-e078097b38ae",
-            "external_references": [
-                {
-                    "source_name": "Klein-Smith",
-                    "description": "Klein-Smith. (2021). Sit dolore aliqua enim, quis reprehenderit qui pariatur reprehenderit. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Griffin, Odonnell and Clark",
-                    "description": "Griffin, Odonnell and Clark. (2021). Cupidatat deserunt in incididunt magna in anim tempor. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Incididunt anim amet amet occaecat qui. Voluptate deserunt et tempor labore ea.(Citation: Klein-Smith)(Citation: Griffin, Odonnell and Clark)",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0.0"
-        },
-        {
-            "id": "relationship--95f4ae00-a6dd-49c8-8afe-90ca186a5ca5",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:24.828299Z",
-            "modified": "2021-07-19T15:43:24.828299Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--1ddb3175-deb5-48c5-bf1d-c5b67eaf1a85",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--2bce5b30-7014-4a5d-ade7-12913fe6ac36",
-            "external_references": [
-                {
-                    "source_name": "Perkins, Thomas and Rivera",
-                    "description": "Perkins, Thomas and Rivera. (2021). Sit eiusmod nisi ad. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Prince-Hernandez",
-                    "description": "Prince-Hernandez. (2021). Nulla ullamco ad ex cillum ut exercitation ut, enim ad enim laboris in. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Walker, Pennington and Rodriguez",
-                    "description": "Walker, Pennington and Rodriguez. (2021). Voluptate est dolore irure sint esse. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Ex officia laboris tempor laboris adipiscing reprehenderit. Mollit id mollit adipiscing culpa quis et minim.(Citation: Perkins, Thomas and Rivera)(Citation: Prince-Hernandez)(Citation: Walker, Pennington and Rodriguez)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--9bfab5ca-6730-4932-b18a-3bae7e9927a3",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.440942Z",
-            "modified": "2021-07-19T15:43:29.440942Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--1ddb3175-deb5-48c5-bf1d-c5b67eaf1a85",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--35187df2-31ed-43b6-a1f5-2f1d3d58d3f1",
-            "external_references": [
-                {
-                    "source_name": "Owens, Duncan and Barnett",
-                    "description": "Owens, Duncan and Barnett. (2021). Elit commodo sint cupidatat. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Aliquip tempor proident eiusmod nostrud cupidatat aute et. Labore commodo velit ex.(Citation: Owens, Duncan and Barnett)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--d3b988d5-3086-46e0-a4ec-266816c31bd0",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.442229Z",
-            "modified": "2021-07-19T15:43:29.442229Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--1ddb3175-deb5-48c5-bf1d-c5b67eaf1a85",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--ea016b56-ae0e-47fe-967a-cc0ad51af67f",
-            "external_references": [
-                {
-                    "source_name": "Baker-Coleman",
-                    "description": "Baker-Coleman. (2021). Eu amet nostrud sed. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Thomas PLC",
-                    "description": "Thomas PLC. (2021). Non consectetur reprehenderit eiusmod adipiscing laborum sit cillum, est ex excepteur sint reprehenderit id aliqua. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Johnson LLC",
-                    "description": "Johnson LLC. (2021). Ad sit aute aute sunt in ut. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Veniam velit aliquip ipsum ex, irure reprehenderit ipsum duis magna ad occaecat sunt. Proident commodo dolor nulla anim exercitation.(Citation: Baker-Coleman)(Citation: Thomas PLC)(Citation: Johnson LLC)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--37592285-1c07-48fe-ad55-ea2f710dfa92",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.444148Z",
-            "modified": "2021-07-19T15:43:29.444148Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--b00f4f76-633e-4514-95b1-ca13df4fdd4d",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--2bce5b30-7014-4a5d-ade7-12913fe6ac36",
-            "external_references": [
-                {
-                    "source_name": "Bailey, Terrell and Mendoza",
-                    "description": "Bailey, Terrell and Mendoza. (2021). Sit dolor esse aliqua deserunt esse voluptate. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Mckee LLC",
-                    "description": "Mckee LLC. (2021). Ea deserunt do qui culpa fugiat sit. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Cillum laboris ipsum mollit cupidatat consectetur. Proident lorem laborum anim velit nisi nostrud velit.(Citation: Bailey, Terrell and Mendoza)(Citation: Mckee LLC)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--56952e34-dbfe-4463-b5ee-d819ba246ec1",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.445938Z",
-            "modified": "2021-07-19T15:43:29.445938Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--14cf3dee-24e4-4e0d-97e2-4cecc96c524e",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--2bce5b30-7014-4a5d-ade7-12913fe6ac36",
-            "external_references": [
-                {
-                    "source_name": "Kirby LLC",
-                    "description": "Kirby LLC. (2021). Mollit voluptate enim proident sint. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Sed lorem lorem cillum officia cupidatat sit. Nostrud voluptate in esse, sint duis ex tempor nostrud ad amet duis, incididunt lorem occaecat sit officia.(Citation: Kirby LLC)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--30b29f7e-7246-4f03-a4bf-5d62af82020b",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.446932Z",
-            "modified": "2021-07-19T15:43:29.446932Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--14cf3dee-24e4-4e0d-97e2-4cecc96c524e",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--ea016b56-ae0e-47fe-967a-cc0ad51af67f",
-            "external_references": [
-                {
-                    "source_name": "Pollard LLC",
-                    "description": "Pollard LLC. (2021). Laboris do duis lorem. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Williams Inc",
-                    "description": "Williams Inc. (2021). Qui laboris amet qui mollit ex. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Duarte PLC",
-                    "description": "Duarte PLC. (2021). Mollit cillum ipsum amet velit, ex quis ut sunt. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Adipiscing exercitation velit dolor et. Ut ut eu aliquip.(Citation: Pollard LLC)(Citation: Williams Inc)(Citation: Duarte PLC)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--b6d35afa-9eb2-4d5e-81b1-a0f1e7f9066c",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.448759Z",
-            "modified": "2021-07-19T15:43:29.448759Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--14cf3dee-24e4-4e0d-97e2-4cecc96c524e",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--5372c5fe-f424-4def-bcd5-d3a8e770f07b",
-            "external_references": [
-                {
-                    "source_name": "Cabrera Inc",
-                    "description": "Cabrera Inc. (2021). Duis amet reprehenderit pariatur et magna. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Jones-Cortez",
-                    "description": "Jones-Cortez. (2021). Aute cupidatat nostrud enim sed qui fugiat. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Holder LLC",
-                    "description": "Holder LLC. (2021). Amet sunt mollit quis. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Exercitation tempor consequat labore et nisi. Dolor fugiat sit sed nostrud exercitation, amet nisi pariatur magna cillum nisi cupidatat.(Citation: Cabrera Inc)(Citation: Jones-Cortez)(Citation: Holder LLC)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--386def29-77b5-48bb-95a8-7ae02eefb3a6",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.450614Z",
-            "modified": "2021-07-19T15:43:29.450614Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--b4c2a29d-7634-428c-b5ba-49729540f11c",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--5d2be8b9-d24c-4e98-83bf-2f5f79477163",
-            "external_references": [
-                {
-                    "source_name": "Munoz-Reed",
-                    "description": "Munoz-Reed. (2021). Voluptate nisi incididunt cupidatat nulla dolore non. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Aliquip pariatur in do sunt labore. Enim dolore ut labore et excepteur esse sunt, sed eiusmod ipsum ad adipiscing.(Citation: Munoz-Reed)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--0b9e48bf-888c-4a6b-9afa-ad565623a219",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.451754Z",
-            "modified": "2021-07-19T15:43:29.451754Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--b4c2a29d-7634-428c-b5ba-49729540f11c",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--2bce5b30-7014-4a5d-ade7-12913fe6ac36",
-            "external_references": [
-                {
-                    "source_name": "Tran LLC",
-                    "description": "Tran LLC. (2021). Eiusmod adipiscing ex eiusmod labore. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Sit veniam non id laboris commodo, eiusmod commodo elit anim mollit. Dolore anim ut cillum labore, sit officia fugiat deserunt adipiscing sunt sit ad.(Citation: Tran LLC)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--ef0bc96d-e601-47be-adb7-2367ac4a858c",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.452758Z",
-            "modified": "2021-07-19T15:43:29.452758Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--82741934-6b5c-4749-a221-c32b2d52a329",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--35187df2-31ed-43b6-a1f5-2f1d3d58d3f1",
-            "external_references": [
-                {
-                    "source_name": "Newman-Carson",
-                    "description": "Newman-Carson. (2021). Ullamco ut ea aliquip mollit cillum, minim nulla sed deserunt laborum ad. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Parker, Carroll and Juarez",
-                    "description": "Parker, Carroll and Juarez. (2021). Deserunt eiusmod irure magna. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Nguyen-Kaiser",
-                    "description": "Nguyen-Kaiser. (2021). Eu ullamco enim sit mollit labore cupidatat. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Minim cupidatat esse enim. Eu ut deserunt anim anim veniam, ad voluptate irure quis officia dolor officia.(Citation: Newman-Carson)(Citation: Parker, Carroll and Juarez)(Citation: Nguyen-Kaiser)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--745591d9-52d1-4eef-ae3e-e66aa083e17b",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.455139Z",
-            "modified": "2021-07-19T15:43:29.455139Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--82741934-6b5c-4749-a221-c32b2d52a329",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--2bce5b30-7014-4a5d-ade7-12913fe6ac36",
-            "external_references": [
-                {
-                    "source_name": "Miller LLC",
-                    "description": "Miller LLC. (2021). Amet exercitation fugiat dolore qui eu do dolore. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Santos-Fletcher",
-                    "description": "Santos-Fletcher. (2021). Anim dolore nulla commodo consequat, exercitation elit deserunt aute aute incididunt lorem. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Consequat ad id sit, deserunt ea reprehenderit in consectetur aute minim. Esse exercitation eiusmod do officia labore duis proident, ex enim exercitation voluptate non.(Citation: Miller LLC)(Citation: Santos-Fletcher)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--6d6e2a38-eb4e-419d-a43a-d9651404487b",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.456986Z",
-            "modified": "2021-07-19T15:43:29.456986Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--82741934-6b5c-4749-a221-c32b2d52a329",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--5d2be8b9-d24c-4e98-83bf-2f5f79477163",
-            "external_references": [
-                {
-                    "source_name": "Davis-Castro",
-                    "description": "Davis-Castro. (2021). Cillum velit lorem non incididunt et. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Excepteur ut dolor ipsum aliquip elit incididunt. Consequat elit dolore culpa culpa excepteur culpa nisi, amet amet reprehenderit qui consequat deserunt excepteur, anim et sit ullamco non.(Citation: Davis-Castro)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--29bf8740-2836-45fd-87c1-15a2bfd45caa",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.458429Z",
-            "modified": "2021-07-19T15:43:29.458429Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--ad73cea2-3771-4695-9114-8955af6616d5",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--5d2be8b9-d24c-4e98-83bf-2f5f79477163",
-            "external_references": [
-                {
-                    "source_name": "Hooper, Velasquez and Coleman",
-                    "description": "Hooper, Velasquez and Coleman. (2021). Ea lorem pariatur ad veniam anim qui aute. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Deleon, Garza and Mason",
-                    "description": "Deleon, Garza and Mason. (2021). Sint ipsum dolor nisi in duis consectetur. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Anderson, Edwards and Paul",
-                    "description": "Anderson, Edwards and Paul. (2021). Ipsum ad sit ullamco. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Sed lorem fugiat dolor pariatur. Qui cillum mollit voluptate dolore.(Citation: Hooper, Velasquez and Coleman)(Citation: Deleon, Garza and Mason)(Citation: Anderson, Edwards and Paul)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--d1bebdda-269a-4018-a452-9626af4fd11c",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.460912Z",
-            "modified": "2021-07-19T15:43:29.460912Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--ad73cea2-3771-4695-9114-8955af6616d5",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--2bce5b30-7014-4a5d-ade7-12913fe6ac36",
-            "external_references": [
-                {
-                    "source_name": "Mcknight-Smith",
-                    "description": "Mcknight-Smith. (2021). Consectetur nisi anim ullamco lorem amet. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Jones-Wilson",
-                    "description": "Jones-Wilson. (2021). Sed excepteur culpa in eu aliqua. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Nelson-Cole",
-                    "description": "Nelson-Cole. (2021). Magna ex aliqua magna. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Non sed elit dolore excepteur id ut, non duis occaecat mollit labore incididunt. Occaecat laboris magna esse ut labore in et.(Citation: Mcknight-Smith)(Citation: Jones-Wilson)(Citation: Nelson-Cole)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--00f11155-b12d-4261-878f-ace9f34ecb3a",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.463085Z",
-            "modified": "2021-07-19T15:43:29.463085Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--ddec85f4-1e01-4153-8ca3-39f17da830c0",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--5d2be8b9-d24c-4e98-83bf-2f5f79477163",
-            "external_references": [
-                {
-                    "source_name": "Pope-Chang",
-                    "description": "Pope-Chang. (2021). Enim nisi minim consectetur ullamco, magna minim adipiscing reprehenderit nisi, fugiat lorem velit elit laborum id exercitation. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Robinson-Parrish",
-                    "description": "Robinson-Parrish. (2021). Do amet culpa anim est proident veniam, magna amet ut veniam non occaecat, nisi ad deserunt duis sunt sint. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                },
-                {
-                    "source_name": "Solis Inc",
-                    "description": "Solis Inc. (2021). Eu enim occaecat minim consectetur. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Incididunt ex proident ad quis. Sint deserunt qui enim proident deserunt.(Citation: Pope-Chang)(Citation: Robinson-Parrish)(Citation: Solis Inc)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "id": "relationship--2b12b8d5-c825-4917-93b9-e53d1a4dadeb",
-            "type": "relationship",
-            "created": "2021-07-19T15:43:29.465637Z",
-            "modified": "2021-07-19T15:43:29.465637Z",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "source_ref": "x-mitre-data-component--ddec85f4-1e01-4153-8ca3-39f17da830c0",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--2bce5b30-7014-4a5d-ade7-12913fe6ac36",
-            "external_references": [
-                {
-                    "source_name": "Hernandez, Soto and Potts",
-                    "description": "Hernandez, Soto and Potts. (2021). Veniam officia nostrud in exercitation. Retrieved July 19, 2021",
-                    "url": "https://attack.mitre.org"
-                }
-            ],
-            "description": "Ut occaecat et est lorem aliqua ipsum. Incididunt commodo adipiscing ut, consectetur nostrud sit veniam elit.(Citation: Hernandez, Soto and Potts)",
-            "x_mitre_version": "1.0",
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "external_references": [
-                {
-                    "source_name": "mitre-attack",
-                    "external_id": "T1070.002",
-                    "url": "https://attack.mitre.org/techniques/T1070/002"
-                },
-                {
-                    "source_name": "Linux Logs",
-                    "url": "https://www.eurovps.com/blog/important-linux-log-files-you-must-be-monitoring/",
-                    "description": "Marcel. (2018, April 19). 12 Critical Linux Log Files You Must be Monitoring. Retrieved March 29, 2020."
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Clear Linux or Mac System Logs",
-            "description": "Adversaries may clear system logs to hide evidence of an intrusion. macOS and Linux both keep track of system or user-initiated actions via system logs. The majority of native system logging is stored under the <code>/var/log/</code> directory. Subfolders in this directory categorize logs by their related functions, such as:(Citation: Linux Logs)\n\n* <code>/var/log/messages:</code>: General and system-related messages\n* <code>/var/log/secure</code> or <code>/var/log/auth.log</code>: Authentication logs\n* <code>/var/log/utmp</code> or <code>/var/log/wtmp</code>: Login records\n* <code>/var/log/kern.log</code>: Kernel logs\n* <code>/var/log/cron.log</code>: Crond logs\n* <code>/var/log/maillog</code>: Mail server logs\n* <code>/var/log/httpd/</code>: Web server access and error logs\n",
-            "id": "attack-pattern--2bce5b30-7014-4a5d-ade7-12913fe6ac36",
-            "type": "attack-pattern",
-            "kill_chain_phases": [
-                {
-                    "kill_chain_name": "mitre-attack",
-                    "phase_name": "defense-evasion"
-                }
-            ],
-            "modified": "2021-07-19T15:43:29.624461Z",
-            "created": "2020-01-28T17:11:54.034Z",
-            "x_mitre_version": "1.0",
-            "x_mitre_is_subtechnique": true,
-            "x_mitre_detection": "File system monitoring may be used to detect improper deletion or modification of indicator files. Also monitor for suspicious processes interacting with log files.",
-            "x_mitre_data_sources": [
-                "Data Source Veniam: Data Component Excepteur",
-                "Data Source Aliquip: Data Component Aliqua",
-                "Data Source Aliquip: Data Component Proident",
-                "Data Source Veniam: Data Component Magna",
-                "Data Source Nulla: Data Component Deserunt",
-                "Data Source Nulla: Data Component Esse",
-                "Data Source Duis: Data Component Non"
-            ],
+            "description": "Excepteur anim culpa irure consequat dolor non aute. Consectetur culpa aute id excepteur cillum, dolor sint sunt ea voluptate.(Citation: Diaz Ltd)",
             "x_mitre_platforms": [
+                "SaaS",
+                "Azure AD",
+                "Containers",
                 "Linux",
-                "macOS"
+                "IaaS"
             ],
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "external_references": [
-                {
-                    "source_name": "mitre-attack",
-                    "external_id": "T1562.004",
-                    "url": "https://attack.mitre.org/techniques/T1562/004"
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Disable or Modify System Firewall",
-            "description": "Adversaries may disable or modify system firewalls in order to bypass controls limiting network usage. Changes could be disabling the entire mechanism as well as adding, deleting, or modifying particular rules. This can be done numerous ways depending on the operating system, including via command-line, editing Windows Registry keys, and Windows Control Panel.\n\nModifying or disabling a system firewall may enable adversary C2 communications, lateral movement, and/or data exfiltration that would otherwise not be allowed. ",
-            "id": "attack-pattern--5372c5fe-f424-4def-bcd5-d3a8e770f07b",
-            "type": "attack-pattern",
-            "kill_chain_phases": [
-                {
-                    "kill_chain_name": "mitre-attack",
-                    "phase_name": "defense-evasion"
-                }
-            ],
-            "modified": "2021-07-19T15:43:29.624461Z",
-            "created": "2020-02-21T21:00:48.814Z",
-            "x_mitre_version": "1.0",
-            "x_mitre_is_subtechnique": true,
-            "x_mitre_defense_bypassed": [
-                "Firewall"
-            ],
-            "x_mitre_detection": "Monitor processes and command-line arguments to see if firewalls are disabled or modified. Monitor Registry edits to keys that manage firewalls.",
-            "x_mitre_data_sources": [
-                "Data Source Aliquip: Data Component Proident"
-            ],
-            "x_mitre_platforms": [
-                "Linux",
-                "macOS",
-                "Windows"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_domains": [
-                "enterprise-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
-        },
-        {
-            "external_references": [
-                {
-                    "source_name": "mitre-attack",
-                    "external_id": "T1484.001",
-                    "url": "https://attack.mitre.org/techniques/T1484/001"
-                },
-                {
-                    "source_name": "TechNet Group Policy Basics",
-                    "url": "https://blogs.technet.microsoft.com/musings_of_a_technical_tam/2012/02/13/group-policy-basics-part-1-understanding-the-structure-of-a-group-policy-object/",
-                    "description": "srachui. (2012, February 13). Group Policy Basics \u2013 Part 1: Understanding the Structure of a Group Policy Object. Retrieved March 5, 2019."
-                },
-                {
-                    "source_name": "ADSecurity GPO Persistence 2016",
-                    "url": "https://adsecurity.org/?p=2716",
-                    "description": "Metcalf, S. (2016, March 14). Sneaky Active Directory Persistence #17: Group Policy. Retrieved March 5, 2019."
-                },
-                {
-                    "source_name": "Wald0 Guide to GPOs",
-                    "url": "https://wald0.com/?p=179",
-                    "description": "Robbins, A. (2018, April 2). A Red Teamer\u2019s Guide to GPOs and OUs. Retrieved March 5, 2019."
-                },
-                {
-                    "source_name": "Harmj0y Abusing GPO Permissions",
-                    "url": "http://www.harmj0y.net/blog/redteaming/abusing-gpo-permissions/",
-                    "description": "Schroeder, W. (2016, March 17). Abusing GPO Permissions. Retrieved March 5, 2019."
-                },
-                {
-                    "source_name": "Mandiant M Trends 2016",
-                    "url": "https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/rpt-mtrends-2016.pdf",
-                    "description": "Mandiant. (2016, February 25). Mandiant M-Trends 2016. Retrieved March 5, 2019."
-                },
-                {
-                    "source_name": "Microsoft Hacking Team Breach",
-                    "url": "https://www.microsoft.com/security/blog/2016/06/01/hacking-team-breach-a-cyber-jurassic-park/",
-                    "description": "Microsoft Secure Team. (2016, June 1). Hacking Team Breach: A Cyber Jurassic Park. Retrieved March 5, 2019."
-                },
-                {
-                    "source_name": "Harmj0y SeEnableDelegationPrivilege Right",
-                    "url": "http://www.harmj0y.net/blog/activedirectory/the-most-dangerous-user-right-you-probably-have-never-heard-of/",
-                    "description": "Schroeder, W. (2017, January 10). The Most Dangerous User Right You (Probably) Have Never Heard Of. Retrieved March 5, 2019."
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Group Policy Modification",
-            "description": "Adversaries may modify Group Policy Objects (GPOs) to subvert the intended discretionary access controls for a domain, usually with the intention of escalating privileges on the domain. Group policy allows for centralized management of user and computer settings in Active Directory (AD). GPOs are containers for group policy settings made up of files stored within a predicable network path <code>\\\\&lt;DOMAIN&gt;\\SYSVOL\\&lt;DOMAIN&gt;\\Policies\\</code>.(Citation: TechNet Group Policy Basics)(Citation: ADSecurity GPO Persistence 2016) \n\nLike other objects in AD, GPOs have access controls associated with them. By default all user accounts in the domain have permission to read GPOs. It is possible to delegate GPO access control permissions, e.g. write access, to specific users or groups in the domain.\n\nMalicious GPO modifications can be used to implement many other malicious behaviors such as [Scheduled Task/Job](https://attack.mitre.org/techniques/T1053), [Disable or Modify Tools](https://attack.mitre.org/techniques/T1562/001), [Ingress Tool Transfer](https://attack.mitre.org/techniques/T1105), [Create Account](https://attack.mitre.org/techniques/T1136), [Service Execution](https://attack.mitre.org/techniques/T1569/002),  and more.(Citation: ADSecurity GPO Persistence 2016)(Citation: Wald0 Guide to GPOs)(Citation: Harmj0y Abusing GPO Permissions)(Citation: Mandiant M Trends 2016)(Citation: Microsoft Hacking Team Breach) Since GPOs can control so many user and machine settings in the AD environment, there are a great number of potential attacks that can stem from this GPO abuse.(Citation: Wald0 Guide to GPOs)\n\nFor example, publicly available scripts such as <code>New-GPOImmediateTask</code> can be leveraged to automate the creation of a malicious [Scheduled Task/Job](https://attack.mitre.org/techniques/T1053) by modifying GPO settings, in this case modifying <code>&lt;GPO_PATH&gt;\\Machine\\Preferences\\ScheduledTasks\\ScheduledTasks.xml</code>.(Citation: Wald0 Guide to GPOs)(Citation: Harmj0y Abusing GPO Permissions) In some cases an adversary might modify specific user rights like SeEnableDelegationPrivilege, set in <code>&lt;GPO_PATH&gt;\\MACHINE\\Microsoft\\Windows NT\\SecEdit\\GptTmpl.inf</code>, to achieve a subtle AD backdoor with complete control of the domain because the user account under the adversary's control would then be able to modify GPOs.(Citation: Harmj0y SeEnableDelegationPrivilege Right)",
-            "id": "attack-pattern--5d2be8b9-d24c-4e98-83bf-2f5f79477163",
-            "type": "attack-pattern",
-            "kill_chain_phases": [
-                {
-                    "kill_chain_name": "mitre-attack",
-                    "phase_name": "defense-evasion"
-                },
-                {
-                    "kill_chain_name": "mitre-attack",
-                    "phase_name": "privilege-escalation"
-                }
-            ],
-            "modified": "2021-07-19T15:43:29.624461Z",
-            "created": "2020-12-28T21:50:59.844Z",
-            "x_mitre_version": "1.0",
-            "x_mitre_is_subtechnique": true,
-            "x_mitre_permissions_required": [
-                "Administrator",
-                "User"
-            ],
-            "x_mitre_detection": "It is possible to detect GPO modifications by monitoring directory service changes using Windows event logs. Several events may be logged for such GPO modifications, including:\n\n* Event ID 5136 - A directory service object was modified\n* Event ID 5137 - A directory service object was created\n* Event ID 5138 - A directory service object was undeleted\n* Event ID 5139 - A directory service object was moved\n* Event ID 5141 - A directory service object was deleted\n\n\nGPO abuse will often be accompanied by some other behavior such as [Scheduled Task/Job](https://attack.mitre.org/techniques/T1053), which will have events associated with it to detect. Subsequent permission value modifications, like those to SeEnableDelegationPrivilege, can also be searched for in events associated with privileges assigned to new logons (Event ID 4672) and assignment of user rights (Event ID 4704).",
-            "x_mitre_data_sources": [
-                "Data Source Veniam: Data Component Magna",
-                "Data Source Nulla: Data Component Deserunt",
-                "Data Source Nulla: Data Component Esse",
-                "Data Source Duis: Data Component Non"
+            "x_mitre_collection_layers": [
+                "ex",
+                "eu",
+                "ad"
             ],
             "x_mitre_contributors": [
-                "Itamar Mizrahi, Cymptom",
-                "Tristan Bennett, Seamless Intelligence"
+                "Herbert Examplecontributor"
             ],
-            "x_mitre_platforms": [
-                "Windows"
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
             ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "x-mitre-data-component--b7360ee0-c3a2-4338-a3b6-31944f76d71b",
+            "type": "x-mitre-data-component",
+            "created": "2021-07-19T18:59:32.338891Z",
+            "modified": "2021-07-19T18:59:32.338891Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "name": "Data Component Culpa",
+            "x_mitre_data_source_ref": "x-mitre-data-source--6da9ab38-437f-4e2f-b24c-f0da3a8ce441",
+            "external_references": [
+                {
+                    "source_name": "Anderson-Cohen",
+                    "description": "Anderson-Cohen. (2021). Officia esse ullamco id dolor eu nisi eiusmod. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Ferguson PLC",
+                    "description": "Ferguson PLC. (2021). Nostrud esse ad et id. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Irure sit elit dolor. Aliquip aute anim laboris.(Citation: Anderson-Cohen)(Citation: Ferguson PLC)",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0.0"
+        },
+        {
+            "id": "x-mitre-data-component--17453a78-737d-42d4-ac57-fede30d5b287",
+            "type": "x-mitre-data-component",
+            "created": "2021-07-19T18:59:32.340325Z",
+            "modified": "2021-07-19T18:59:32.340325Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "name": "Data Component Aliqua",
+            "x_mitre_data_source_ref": "x-mitre-data-source--1e0d83f8-86bb-42c2-a39c-c717c763524c",
+            "external_references": [
+                {
+                    "source_name": "Sweeney, Reynolds and Jones",
+                    "description": "Sweeney, Reynolds and Jones. (2021). Aliqua id sit ad elit. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Phillips, Bond and Cole",
+                    "description": "Phillips, Bond and Cole. (2021). Adipiscing laborum et veniam qui non duis. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Sanchez Inc",
+                    "description": "Sanchez Inc. (2021). Ut mollit dolor aute ad et ullamco laboris, esse dolor consectetur occaecat dolore et labore. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Sunt deserunt esse cupidatat. Quis sunt do officia dolore fugiat ea.(Citation: Sweeney, Reynolds and Jones)(Citation: Phillips, Bond and Cole)(Citation: Sanchez Inc)",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0.0"
+        },
+        {
+            "id": "x-mitre-data-component--75f4e10c-ee4e-400c-86d2-c63a00269512",
+            "type": "x-mitre-data-component",
+            "created": "2021-07-19T18:59:32.342537Z",
+            "modified": "2021-07-19T18:59:32.342537Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "name": "Data Component Est",
+            "x_mitre_data_source_ref": "x-mitre-data-source--1e0d83f8-86bb-42c2-a39c-c717c763524c",
+            "external_references": [
+                {
+                    "source_name": "Nolan, Weaver and Marshall",
+                    "description": "Nolan, Weaver and Marshall. (2021). Mollit mollit lorem excepteur aute cillum aliquip, irure commodo consequat ex fugiat qui culpa exercitation. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Nostrud adipiscing occaecat duis enim. Sint culpa incididunt adipiscing deserunt adipiscing.(Citation: Nolan, Weaver and Marshall)",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0.0"
+        },
+        {
+            "id": "x-mitre-data-component--f7283eae-9cb6-420b-aa47-1c38e67cf105",
+            "type": "x-mitre-data-component",
+            "created": "2021-07-19T18:59:32.343642Z",
+            "modified": "2021-07-19T18:59:32.343642Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "name": "Data Component Qui",
+            "x_mitre_data_source_ref": "x-mitre-data-source--e9565b6a-e97c-497b-be40-95234cdb3024",
+            "external_references": [
+                {
+                    "source_name": "Avery-Barnes",
+                    "description": "Avery-Barnes. (2021). Et in laborum lorem laboris. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Day-Simpson",
+                    "description": "Day-Simpson. (2021). Pariatur enim incididunt dolor dolor cillum esse cillum, exercitation consequat labore do consectetur. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Quis cupidatat tempor non labore nisi cillum, duis incididunt nulla proident exercitation veniam ut fugiat. Anim fugiat dolore deserunt ipsum enim et voluptate.(Citation: Avery-Barnes)(Citation: Day-Simpson)",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0.0"
+        },
+        {
+            "id": "x-mitre-data-component--a0aed7ed-2119-4a7b-9a15-9c6fd5520416",
+            "type": "x-mitre-data-component",
+            "created": "2021-07-19T18:59:32.345217Z",
+            "modified": "2021-07-19T18:59:32.345217Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "name": "Data Component Incididunt",
+            "x_mitre_data_source_ref": "x-mitre-data-source--d3a30ccf-4e0d-4dbf-acd4-900f76775376",
+            "external_references": [
+                {
+                    "source_name": "Diaz, Edwards and Thompson",
+                    "description": "Diaz, Edwards and Thompson. (2021). Voluptate do ut sint veniam anim labore officia, nisi eiusmod do amet irure fugiat ad aliquip, amet sunt voluptate occaecat minim. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Mullins, Cox and Martinez",
+                    "description": "Mullins, Cox and Martinez. (2021). Laborum minim enim aliqua consectetur, magna ullamco pariatur anim minim ut id adipiscing. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Hurst-Turner",
+                    "description": "Hurst-Turner. (2021). Qui ea lorem incididunt quis fugiat consectetur consectetur, ad sint esse id elit culpa nulla. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Labore id in ex do, aliqua nostrud laborum ea ipsum adipiscing commodo. Laborum sunt aute incididunt in exercitation culpa.(Citation: Diaz, Edwards and Thompson)(Citation: Mullins, Cox and Martinez)(Citation: Hurst-Turner)",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0.0"
+        },
+        {
+            "id": "x-mitre-data-component--176e3fd0-477f-4073-a654-7a62c101a9b3",
+            "type": "x-mitre-data-component",
+            "created": "2021-07-19T18:59:32.347399Z",
+            "modified": "2021-07-19T18:59:32.347399Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "name": "Data Component Aliquip",
+            "x_mitre_data_source_ref": "x-mitre-data-source--d3a30ccf-4e0d-4dbf-acd4-900f76775376",
+            "external_references": [
+                {
+                    "source_name": "Taylor PLC",
+                    "description": "Taylor PLC. (2021). Amet enim exercitation excepteur ut commodo elit deserunt. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Hayes, Hodge and Thompson",
+                    "description": "Hayes, Hodge and Thompson. (2021). Laborum sunt est non. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Ipsum id excepteur quis est eu elit est. Mollit velit anim proident, labore laborum labore aliquip deserunt, incididunt adipiscing nisi magna.(Citation: Taylor PLC)(Citation: Hayes, Hodge and Thompson)",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0.0"
+        },
+        {
+            "id": "x-mitre-data-component--f79594c6-204d-4fd5-b8fa-9467c6ae92ca",
+            "type": "x-mitre-data-component",
+            "created": "2021-07-19T18:59:32.349385Z",
+            "modified": "2021-07-19T18:59:32.349385Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "name": "Data Component Amet",
+            "x_mitre_data_source_ref": "x-mitre-data-source--e2085389-bc6f-4ca8-8eba-1815279b5107",
+            "external_references": [
+                {
+                    "source_name": "Robbins-Forbes",
+                    "description": "Robbins-Forbes. (2021). Lorem anim eiusmod aliquip veniam. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Enim excepteur sint voluptate exercitation irure. Officia id proident sunt pariatur voluptate voluptate veniam.(Citation: Robbins-Forbes)",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0.0"
+        },
+        {
+            "id": "relationship--9384c649-75f5-4ef0-b303-81426893a72d",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:32.350531Z",
+            "modified": "2021-07-19T18:59:32.350531Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--b7360ee0-c3a2-4338-a3b6-31944f76d71b",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--9efb1ea7-c37b-4595-9640-b7680cd84279",
+            "external_references": [
+                {
+                    "source_name": "Williams and Sons",
+                    "description": "Williams and Sons. (2021). Veniam anim excepteur laboris do deserunt do. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "West-Ellison",
+                    "description": "West-Ellison. (2021). Ad laborum aute reprehenderit est, amet esse aute consectetur amet laboris exercitation. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Quis consectetur pariatur mollit tempor aliquip voluptate do. Aliqua dolore pariatur duis esse.(Citation: Williams and Sons)(Citation: West-Ellison)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--fca69aa0-c1ef-410c-a322-2341140ee9af",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.948876Z",
+            "modified": "2021-07-19T18:59:37.948876Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--b7360ee0-c3a2-4338-a3b6-31944f76d71b",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--3ee16395-03f0-4690-a32e-69ce9ada0f9e",
+            "external_references": [
+                {
+                    "source_name": "Buck and Sons",
+                    "description": "Buck and Sons. (2021). Fugiat laboris mollit ad consectetur culpa incididunt. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Incididunt minim ad tempor cupidatat. Eiusmod sint magna dolor laborum do, voluptate id aliqua reprehenderit.(Citation: Buck and Sons)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--c0ed38e2-5df1-485a-ac62-0db54b6a75e4",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.950176Z",
+            "modified": "2021-07-19T18:59:37.950176Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--b7360ee0-c3a2-4338-a3b6-31944f76d71b",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--57a3d31a-d04f-4663-b2da-7df8ec3f8c9d",
+            "external_references": [
+                {
+                    "source_name": "Hill, Compton and Gay",
+                    "description": "Hill, Compton and Gay. (2021). Non eu enim in dolor adipiscing cillum tempor, exercitation nulla sit amet esse est eu. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Eu fugiat veniam mollit occaecat ad. Et aute sint magna in cupidatat ullamco eu.(Citation: Hill, Compton and Gay)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--530eb03b-9e5a-4c0e-ac44-ae7d2ff6d046",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.951589Z",
+            "modified": "2021-07-19T18:59:37.951589Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--17453a78-737d-42d4-ac57-fede30d5b287",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--3ee16395-03f0-4690-a32e-69ce9ada0f9e",
+            "external_references": [
+                {
+                    "source_name": "Wilson Inc",
+                    "description": "Wilson Inc. (2021). Nulla et magna non deserunt fugiat officia. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Hoffman and Sons",
+                    "description": "Hoffman and Sons. (2021). Exercitation eu aliquip quis occaecat, in laborum aliquip proident, aliquip minim excepteur irure officia sunt. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Perkins Inc",
+                    "description": "Perkins Inc. (2021). Laboris nisi anim enim. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Sed et aute exercitation duis enim id, id incididunt incididunt ut lorem magna dolore irure, id duis aute consectetur dolor est. Qui velit amet velit sed.(Citation: Wilson Inc)(Citation: Hoffman and Sons)(Citation: Perkins Inc)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--fed285ed-d7c1-416a-bee7-953d2d9ba503",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.954684Z",
+            "modified": "2021-07-19T18:59:37.954684Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--17453a78-737d-42d4-ac57-fede30d5b287",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--2fee9321-3e71-4cf4-af24-d4d40d355b34",
+            "external_references": [
+                {
+                    "source_name": "Brown, Hill and Logan",
+                    "description": "Brown, Hill and Logan. (2021). Proident esse id in, consequat incididunt eu officia magna voluptate nulla. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Lewis-Wagner",
+                    "description": "Lewis-Wagner. (2021). Est sit aliqua exercitation cillum sunt velit. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Duis voluptate non sed adipiscing aute ullamco pariatur. Commodo labore velit est sunt et nostrud, enim velit dolor amet laboris ex.(Citation: Brown, Hill and Logan)(Citation: Lewis-Wagner)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--94ca966e-c155-4e69-ac82-b9b8a5d1169c",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.959321Z",
+            "modified": "2021-07-19T18:59:37.959321Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--17453a78-737d-42d4-ac57-fede30d5b287",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--57a3d31a-d04f-4663-b2da-7df8ec3f8c9d",
+            "external_references": [
+                {
+                    "source_name": "Grant LLC",
+                    "description": "Grant LLC. (2021). Incididunt aliqua laboris magna aute, pariatur velit exercitation minim sit proident voluptate. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Mollit ea exercitation exercitation ullamco. Sit in nisi anim.(Citation: Grant LLC)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--21d15713-437b-47e7-8b1a-61f24f539cb4",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.961623Z",
+            "modified": "2021-07-19T18:59:37.961623Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--75f4e10c-ee4e-400c-86d2-c63a00269512",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--2fee9321-3e71-4cf4-af24-d4d40d355b34",
+            "external_references": [
+                {
+                    "source_name": "Morgan-Olson",
+                    "description": "Morgan-Olson. (2021). Quis irure veniam magna. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Dolore eu laboris officia elit. Aliqua anim deserunt minim et do ut.(Citation: Morgan-Olson)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--02a7d262-9e24-4dc6-a7dc-d42117dd39dd",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.963527Z",
+            "modified": "2021-07-19T18:59:37.963527Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--75f4e10c-ee4e-400c-86d2-c63a00269512",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--3c4a2599-71ee-4405-ba1e-0e28414b4bc5",
+            "external_references": [
+                {
+                    "source_name": "Bright-Reyes",
+                    "description": "Bright-Reyes. (2021). Elit sed eu dolore, eiusmod amet in laborum ipsum lorem enim incididunt. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Nostrud ut anim reprehenderit non et, velit eu laborum commodo ex qui, officia ut cillum elit commodo id reprehenderit veniam. Velit pariatur nostrud in occaecat, in ipsum cillum eu esse.(Citation: Bright-Reyes)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--aa02dcac-34ac-4068-8174-58b25279a067",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.965876Z",
+            "modified": "2021-07-19T18:59:37.965876Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--75f4e10c-ee4e-400c-86d2-c63a00269512",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--3ee16395-03f0-4690-a32e-69ce9ada0f9e",
+            "external_references": [
+                {
+                    "source_name": "Silva-Allen",
+                    "description": "Silva-Allen. (2021). Reprehenderit adipiscing ullamco do elit pariatur velit sint, quis culpa consectetur mollit sed consectetur cupidatat velit. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Eu exercitation sit non commodo non. Occaecat commodo consectetur irure eiusmod ipsum do do.(Citation: Silva-Allen)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--858bbf1c-7ebf-4975-9c97-8625cc4164ba",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.967328Z",
+            "modified": "2021-07-19T18:59:37.967328Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--f7283eae-9cb6-420b-aa47-1c38e67cf105",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--2fee9321-3e71-4cf4-af24-d4d40d355b34",
+            "external_references": [
+                {
+                    "source_name": "Munoz, Myers and Brown",
+                    "description": "Munoz, Myers and Brown. (2021). Irure sint consectetur tempor enim sit, excepteur elit excepteur sed qui anim. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Ayala-Hobbs",
+                    "description": "Ayala-Hobbs. (2021). Occaecat ullamco eu elit officia proident, do tempor velit lorem ad. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Nguyen-Burton",
+                    "description": "Nguyen-Burton. (2021). Laborum aliqua ea qui deserunt in nostrud. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Aliquip occaecat esse ut et aliquip fugiat laborum. Ad tempor ut incididunt.(Citation: Munoz, Myers and Brown)(Citation: Ayala-Hobbs)(Citation: Nguyen-Burton)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--c6649e53-9857-43ba-8cab-a0bb93baeb5f",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.970417Z",
+            "modified": "2021-07-19T18:59:37.970417Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--f7283eae-9cb6-420b-aa47-1c38e67cf105",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--3ee16395-03f0-4690-a32e-69ce9ada0f9e",
+            "external_references": [
+                {
+                    "source_name": "Briggs, Bell and Chavez",
+                    "description": "Briggs, Bell and Chavez. (2021). Voluptate non dolor incididunt minim est irure aliqua. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Et ex nisi exercitation qui, aliqua dolor adipiscing labore fugiat fugiat amet est. Aute reprehenderit eiusmod ad commodo ad fugiat commodo, culpa qui ipsum excepteur duis adipiscing esse, culpa ex nisi occaecat est tempor id elit.(Citation: Briggs, Bell and Chavez)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--50749912-8245-43ab-9bb5-a7f270f00f1b",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.973298Z",
+            "modified": "2021-07-19T18:59:37.973298Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--f7283eae-9cb6-420b-aa47-1c38e67cf105",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--57a3d31a-d04f-4663-b2da-7df8ec3f8c9d",
+            "external_references": [
+                {
+                    "source_name": "Palmer, Perkins and Hardy",
+                    "description": "Palmer, Perkins and Hardy. (2021). Labore elit aute sit sunt ipsum. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Laboris deserunt do laborum. Fugiat aliqua cillum ut labore elit, ut sit officia aliqua et mollit tempor sit.(Citation: Palmer, Perkins and Hardy)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--b648d14d-cf75-4a9f-837b-55188ddabc91",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.976534Z",
+            "modified": "2021-07-19T18:59:37.976534Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--a0aed7ed-2119-4a7b-9a15-9c6fd5520416",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--3c4a2599-71ee-4405-ba1e-0e28414b4bc5",
+            "external_references": [
+                {
+                    "source_name": "Gross Group",
+                    "description": "Gross Group. (2021). Irure est incididunt id adipiscing eu. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Occaecat velit eu proident labore exercitation est ex. Enim velit nulla excepteur.(Citation: Gross Group)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--76e8ef72-9e28-41df-84e1-2c1569372415",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.979220Z",
+            "modified": "2021-07-19T18:59:37.979220Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--a0aed7ed-2119-4a7b-9a15-9c6fd5520416",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--57a3d31a-d04f-4663-b2da-7df8ec3f8c9d",
+            "external_references": [
+                {
+                    "source_name": "Davis, Hurley and Smith",
+                    "description": "Davis, Hurley and Smith. (2021). Ea sed dolor aute culpa incididunt. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Vincent Inc",
+                    "description": "Vincent Inc. (2021). Sit aliqua id cupidatat. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Frye, Henderson and Rice",
+                    "description": "Frye, Henderson and Rice. (2021). Proident esse anim laborum consequat est adipiscing amet. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Deserunt et ex labore mollit veniam. Labore do eiusmod ut voluptate.(Citation: Davis, Hurley and Smith)(Citation: Vincent Inc)(Citation: Frye, Henderson and Rice)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--bd34cf80-fc8a-4815-8a23-a86f531f4f71",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.984117Z",
+            "modified": "2021-07-19T18:59:37.984117Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--a0aed7ed-2119-4a7b-9a15-9c6fd5520416",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--2fee9321-3e71-4cf4-af24-d4d40d355b34",
+            "external_references": [
+                {
+                    "source_name": "Johnson-Hawkins",
+                    "description": "Johnson-Hawkins. (2021). Ad ad consectetur ea, cillum sit quis dolore reprehenderit in, fugiat enim ipsum esse deserunt. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Pugh-Grant",
+                    "description": "Pugh-Grant. (2021). Ipsum in commodo enim in adipiscing esse veniam, anim quis dolore quis eu, quis sit fugiat cupidatat lorem nisi nostrud. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Sit nisi sit id officia. Cillum velit minim quis, sint voluptate incididunt exercitation consectetur, fugiat ad lorem commodo aute id laboris anim.(Citation: Johnson-Hawkins)(Citation: Pugh-Grant)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--85d9d05d-a6e8-4268-997a-44f7e468bc8f",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.986151Z",
+            "modified": "2021-07-19T18:59:37.986151Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--176e3fd0-477f-4073-a654-7a62c101a9b3",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--9efb1ea7-c37b-4595-9640-b7680cd84279",
+            "external_references": [
+                {
+                    "source_name": "Davis, Haley and Bartlett",
+                    "description": "Davis, Haley and Bartlett. (2021). Id et exercitation commodo tempor. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Occaecat laborum adipiscing aute est elit duis, lorem quis pariatur sunt incididunt ipsum nisi. Fugiat in nulla aliqua nisi ipsum.(Citation: Davis, Haley and Bartlett)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--f821bc1c-7209-4123-a46c-f72963ceab3c",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.988117Z",
+            "modified": "2021-07-19T18:59:37.988117Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--176e3fd0-477f-4073-a654-7a62c101a9b3",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--3ee16395-03f0-4690-a32e-69ce9ada0f9e",
+            "external_references": [
+                {
+                    "source_name": "Smith LLC",
+                    "description": "Smith LLC. (2021). Magna qui eu enim. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Rodriguez, Koch and Smith",
+                    "description": "Rodriguez, Koch and Smith. (2021). Veniam aute et duis. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Consequat occaecat dolore laborum duis esse voluptate, in ut incididunt officia incididunt sunt ex ullamco. Ipsum reprehenderit mollit exercitation, anim deserunt aliqua voluptate nostrud est officia ex.(Citation: Smith LLC)(Citation: Rodriguez, Koch and Smith)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--e3c3382d-bf7e-4e3d-92ef-3aaeca716cbb",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.992358Z",
+            "modified": "2021-07-19T18:59:37.992358Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--f79594c6-204d-4fd5-b8fa-9467c6ae92ca",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--3ee16395-03f0-4690-a32e-69ce9ada0f9e",
+            "external_references": [
+                {
+                    "source_name": "White-Lee",
+                    "description": "White-Lee. (2021). Minim laborum officia laboris aliquip velit. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Sed magna sed fugiat cillum duis elit ipsum, occaecat tempor ea esse. Non excepteur ullamco irure cupidatat ea qui deserunt.(Citation: White-Lee)",
+            "x_mitre_version": "1.0",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "relationship--431746d3-270e-4198-a443-9fc26df2f07f",
+            "type": "relationship",
+            "created": "2021-07-19T18:59:37.994710Z",
+            "modified": "2021-07-19T18:59:37.994710Z",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "source_ref": "x-mitre-data-component--f79594c6-204d-4fd5-b8fa-9467c6ae92ca",
+            "relationship_type": "detects",
+            "target_ref": "attack-pattern--57a3d31a-d04f-4663-b2da-7df8ec3f8c9d",
+            "external_references": [
+                {
+                    "source_name": "Hancock, Baxter and Mccormick",
+                    "description": "Hancock, Baxter and Mccormick. (2021). Pariatur quis nisi esse lorem veniam do. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                },
+                {
+                    "source_name": "Reynolds, Johnson and Ball",
+                    "description": "Reynolds, Johnson and Ball. (2021). Adipiscing do velit adipiscing magna officia ex culpa, magna ullamco eiusmod est. Retrieved July 19, 2021",
+                    "url": "https://attack.mitre.org"
+                }
+            ],
+            "description": "Consectetur ipsum ullamco veniam dolor exercitation velit. Tempor exercitation mollit labore.(Citation: Hancock, Baxter and Mccormick)(Citation: Reynolds, Johnson and Ball)",
+            "x_mitre_version": "1.0",
             "spec_version": "2.1",
             "x_mitre_domains": [
                 "enterprise-attack"
@@ -1205,77 +1096,74 @@
             "external_references": [
                 {
                     "source_name": "mitre-attack",
-                    "external_id": "T1055.008",
-                    "url": "https://attack.mitre.org/techniques/T1055/008"
+                    "external_id": "T1580",
+                    "url": "https://attack.mitre.org/techniques/T1580"
                 },
                 {
-                    "source_name": "PTRACE man",
-                    "url": "http://man7.org/linux/man-pages/man2/ptrace.2.html",
-                    "description": "Kerrisk, M. (2020, February 9). PTRACE(2) - Linux Programmer's Manual. Retrieved February 21, 2020."
+                    "source_name": "Amazon Describe Instance",
+                    "url": "https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-instance-information.html",
+                    "description": "Amazon. (n.d.). describe-instance-information. Retrieved March 3, 2020."
                 },
                 {
-                    "source_name": "Medium Ptrace JUL 2018",
-                    "url": "https://medium.com/@jain.sm/code-injection-in-running-process-using-ptrace-d3ea7191a4be",
-                    "description": "Jain, S. (2018, July 25). Code injection in running process using ptrace. Retrieved February 21, 2020."
+                    "source_name": "Amazon Describe Instances API",
+                    "url": "https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeInstances.html",
+                    "description": "Amazon. (n.d.). DescribeInstances. Retrieved May 26, 2020."
                 },
                 {
-                    "source_name": "BH Linux Inject",
-                    "url": "https://github.com/gaffe23/linux-inject/blob/master/slides_BHArsenal2015.pdf",
-                    "description": "Colgan, T. (2015, August 15). Linux-Inject. Retrieved February 21, 2020."
+                    "source_name": "Google Compute Instances",
+                    "url": "https://cloud.google.com/sdk/gcloud/reference/compute/instances/list",
+                    "description": "Google. (n.d.). gcloud compute instances list. Retrieved May 26, 2020."
                 },
                 {
-                    "description": "Ligh, M.H. et al.. (2014, July). The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory. Retrieved December 20, 2017.",
-                    "source_name": "ArtOfMemoryForensics"
+                    "description": "Microsoft. (n.d.). az ad user. Retrieved October 6, 2019.",
+                    "url": "https://docs.microsoft.com/en-us/cli/azure/ad/user?view=azure-cli-latest",
+                    "source_name": "Microsoft AZ CLI"
                 },
                 {
-                    "url": "https://www.gnu.org/software/acct/",
-                    "description": "GNU. (2010, February 5). The GNU Accounting Utilities. Retrieved December 20, 2017.",
-                    "source_name": "GNU Acct"
+                    "source_name": "Expel IO Evil in AWS",
+                    "url": "https://expel.io/blog/finding-evil-in-aws/",
+                    "description": "A. Randazzo, B. Manahan and S. Lipton. (2020, April 28). Finding Evil in AWS. Retrieved June 25, 2020."
                 },
                 {
-                    "url": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security_guide/chap-system_auditing",
-                    "description": "Jahoda, M. et al.. (2017, March 14). redhat Security Guide - Chapter 7 - System Auditing. Retrieved December 20, 2017.",
-                    "source_name": "RHEL auditd"
-                },
-                {
-                    "url": "http://www.chokepoint.net/2014/02/detecting-userland-preload-rootkits.html",
-                    "description": "stderr. (2014, February 14). Detecting Userland Preload Rootkits. Retrieved December 20, 2017.",
-                    "source_name": "Chokepoint preload rootkits"
+                    "source_name": "Mandiant M-Trends 2020",
+                    "url": "https://content.fireeye.com/m-trends/rpt-m-trends-2020",
+                    "description": "Mandiant. (2020, February). M-Trends 2020. Retrieved April 24, 2020."
                 }
             ],
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Ptrace System Calls",
-            "description": "Adversaries may inject malicious code into processes via ptrace (process trace) system calls in order to evade process-based defenses as well as possibly elevate privileges. Ptrace system call injection is a method of executing arbitrary code in the address space of a separate live process. \n\nPtrace system call injection involves attaching to and modifying a running process. The ptrace system call enables a debugging process to observe and control another process (and each individual thread), including changing memory and register values.(Citation: PTRACE man) Ptrace system call injection is commonly performed by writing arbitrary code into a running process (ex: <code>malloc</code>) then invoking that memory with <code>PTRACE_SETREGS</code> to set the register containing the next instruction to execute. Ptrace system call injection can also be done with <code>PTRACE_POKETEXT</code>/<code>PTRACE_POKEDATA</code>, which copy data to a specific address in the target processes\u2019 memory (ex: the current address of the next instruction). (Citation: PTRACE man)(Citation: Medium Ptrace JUL 2018) \n\nPtrace system call injection may not be possible targeting processes with high-privileges, and on some system those that are non-child processes.(Citation: BH Linux Inject) \n\nRunning code in the context of another process may allow access to the process's memory, system/network resources, and possibly elevated privileges. Execution via ptrace system call injection may also evade detection from security products since the execution is masked under a legitimate process. ",
-            "id": "attack-pattern--ea016b56-ae0e-47fe-967a-cc0ad51af67f",
+            "name": "Cloud Infrastructure Discovery",
+            "description": "An adversary may attempt to discover resources that are available within an infrastructure-as-a-service (IaaS) environment. This includes compute service resources such as instances, virtual machines, and snapshots as well as resources of other services including the storage and database services.\n\nCloud providers offer methods such as APIs and commands issued through CLIs to serve information about infrastructure. For example, AWS provides a <code>DescribeInstances</code> API within the Amazon EC2 API that can return information about one or more instances within an account, as well as the <code>ListBuckets</code> API that returns a list of all buckets owned by the authenticated sender of the request.(Citation: Amazon Describe Instance)(Citation: Amazon Describe Instances API) Similarly, GCP's Cloud SDK CLI provides the <code>gcloud compute instances list</code> command to list all Google Compute Engine instances in a project(Citation: Google Compute Instances), and Azure's CLI command <code>az vm list</code> lists details of virtual machines.(Citation: Microsoft AZ CLI)\n\nAn adversary may enumerate resources using a compromised user's access keys to determine which are available to that user.(Citation: Expel IO Evil in AWS) The discovery of these available resources may help adversaries determine their next steps in the Cloud environment, such as establishing Persistence.(Citation: Mandiant M-Trends 2020) Unlike in [Cloud Service Discovery](https://attack.mitre.org/techniques/T1526), this technique focuses on the discovery of components of the provided services rather than the services themselves.",
+            "id": "attack-pattern--57a3d31a-d04f-4663-b2da-7df8ec3f8c9d",
             "type": "attack-pattern",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
-                    "phase_name": "defense-evasion"
-                },
-                {
-                    "kill_chain_name": "mitre-attack",
-                    "phase_name": "privilege-escalation"
+                    "phase_name": "discovery"
                 }
             ],
-            "modified": "2021-07-19T15:43:29.624461Z",
-            "created": "2020-01-14T01:33:19.065Z",
-            "x_mitre_defense_bypassed": [
-                "Anti-virus",
-                "Application control"
+            "modified": "2021-07-19T18:59:38.238203Z",
+            "created": "2020-08-20T17:51:25.671Z",
+            "x_mitre_contributors": [
+                "Praetorian"
             ],
+            "x_mitre_version": "1.1",
+            "x_mitre_is_subtechnique": false,
+            "x_mitre_permissions_required": [
+                "User"
+            ],
+            "x_mitre_detection": "Establish centralized logging for the activity of cloud infrastructure components. Monitor logs for actions that could be taken to gather information about cloud infrastructure, including the use of discovery API calls by new or unexpected users. To reduce false positives, valid change management procedures could introduce a known identifier that is logged with the change (e.g., tag or header) if supported by the cloud provider, to help distinguish valid, expected actions from malicious ones.",
             "x_mitre_data_sources": [
-                "Data Source Veniam: Data Component Excepteur",
-                "Data Source Aliquip: Data Component Proident"
+                "Data Source Laborum: Data Component Culpa",
+                "Data Source Nulla: Data Component Aliqua",
+                "Data Source Ad: Data Component Qui",
+                "Data Source Pariatur: Data Component Incididunt",
+                "Data Source Ea: Data Component Amet"
             ],
-            "x_mitre_detection": "Monitoring for Linux specific calls such as the ptrace system call should not generate large amounts of data due to their specialized nature, and can be a very effective method to detect some of the common process injection methods.(Citation: ArtOfMemoryForensics)  (Citation: GNU Acct)  (Citation: RHEL auditd)  (Citation: Chokepoint preload rootkits) \n\nAnalyze process behavior to determine if a process is performing actions it usually does not, such as opening network connections, reading files, or other suspicious actions that could relate to post-compromise behavior. ",
-            "x_mitre_version": "1.0",
-            "x_mitre_is_subtechnique": true,
             "x_mitre_platforms": [
-                "Linux"
+                "IaaS"
             ],
             "spec_version": "2.1",
             "x_mitre_domains": [
@@ -1284,58 +1172,280 @@
             "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
         },
         {
-            "external_references": [
-                {
-                    "source_name": "mitre-attack",
-                    "external_id": "T1505.002",
-                    "url": "https://attack.mitre.org/techniques/T1505/002"
-                },
-                {
-                    "source_name": "Microsoft TransportAgent Jun 2016",
-                    "url": "https://docs.microsoft.com/en-us/exchange/transport-agents-exchange-2013-help",
-                    "description": "Microsoft. (2016, June 1). Transport agents. Retrieved June 24, 2019."
-                },
-                {
-                    "source_name": "ESET LightNeuron May 2019",
-                    "url": "https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf",
-                    "description": "Faou, M. (2019, May). Turla LightNeuron: One email away from remote code execution. Retrieved June 24, 2019."
-                }
-            ],
+            "id": "attack-pattern--2fee9321-3e71-4cf4-af24-d4d40d355b34",
+            "description": "Adversaries may execute their own malicious payloads by hijacking the search order used to load DLLs. Windows systems use a common method to look for required DLLs to load into a program. (Citation: Microsoft Dynamic Link Library Search Order)(Citation: FireEye Hijacking July 2010) Hijacking DLL loads may be for the purpose of establishing persistence as well as elevating privileges and/or evading restrictions on file execution.\n\nThere are many ways an adversary can hijack DLL loads. Adversaries may plant trojan dynamic-link library files (DLLs) in a directory that will be searched before the location of a legitimate library that will be requested by a program, causing Windows to load their malicious library when it is called for by the victim program. Adversaries may also perform DLL preloading, also called binary planting attacks, (Citation: OWASP Binary Planting) by placing a malicious DLL with the same name as an ambiguously specified DLL in a location that Windows searches before the legitimate DLL. Often this location is the current working directory of the program.(Citation: FireEye fxsst June 2011) Remote DLL preloading attacks occur when a program sets its current directory to a remote location such as a Web share before loading a DLL. (Citation: Microsoft Security Advisory 2269637)\n\nAdversaries may also directly modify the search order via DLL redirection, which after being enabled (in the Registry and creation of a redirection file) may cause a program to load a different DLL.(Citation: Microsoft Dynamic-Link Library Redirection)(Citation: Microsoft Manifests)(Citation: FireEye DLL Search Order Hijacking)\n\nIf a search order-vulnerable program is configured to run at a higher privilege level, then the adversary-controlled DLL that is loaded will also be executed at the higher level. In this case, the technique could be used for privilege escalation from user to administrator or SYSTEM or from administrator to SYSTEM, depending on the program. Programs that fall victim to path hijacking may appear to behave normally because malicious DLLs may be configured to also load the legitimate DLLs they were meant to replace.",
+            "name": "DLL Search Order Hijacking",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Transport Agent",
-            "description": "Adversaries may abuse Microsoft transport agents to establish persistent access to systems. Microsoft Exchange transport agents can operate on email messages passing through the transport pipeline to perform various tasks such as filtering spam, filtering malicious attachments, journaling, or adding a corporate signature to the end of all outgoing emails.(Citation: Microsoft TransportAgent Jun 2016)(Citation: ESET LightNeuron May 2019) Transport agents can be written by application developers and then compiled to .NET assemblies that are subsequently registered with the Exchange server. Transport agents will be invoked during a specified stage of email processing and carry out developer defined tasks. \n\nAdversaries may register a malicious transport agent to provide a persistence mechanism in Exchange Server that can be triggered by adversary-specified email events.(Citation: ESET LightNeuron May 2019) Though a malicious transport agent may be invoked for all emails passing through the Exchange transport pipeline, the agent can be configured to only carry out specific tasks in response to adversary defined criteria. For example, the transport agent may only carry out an action like copying in-transit attachments and saving them for later exfiltration if the recipient email address matches an entry on a list provided by the adversary. ",
-            "id": "attack-pattern--35187df2-31ed-43b6-a1f5-2f1d3d58d3f1",
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "external_id": "T1574.001",
+                    "url": "https://attack.mitre.org/techniques/T1574/001"
+                },
+                {
+                    "external_id": "CAPEC-471",
+                    "source_name": "capec",
+                    "url": "https://capec.mitre.org/data/definitions/471.html"
+                },
+                {
+                    "source_name": "Microsoft Dynamic Link Library Search Order",
+                    "url": "https://docs.microsoft.com/en-us/windows/win32/dlls/dynamic-link-library-search-order?redirectedfrom=MSDN",
+                    "description": "Microsoft. (2018, May 31). Dynamic-Link Library Search Order. Retrieved November 30, 2014."
+                },
+                {
+                    "source_name": "FireEye Hijacking July 2010",
+                    "url": "https://www.fireeye.com/blog/threat-research/2010/07/malware-persistence-windows-registry.html",
+                    "description": "Harbour, N. (2010, July 15). Malware Persistence without the Windows Registry. Retrieved November 17, 2020."
+                },
+                {
+                    "source_name": "OWASP Binary Planting",
+                    "description": "OWASP. (2013, January 30). Binary planting. Retrieved June 7, 2016.",
+                    "url": "https://www.owasp.org/index.php/Binary_planting"
+                },
+                {
+                    "source_name": "FireEye fxsst June 2011",
+                    "url": "https://www.fireeye.com/blog/threat-research/2011/06/fxsst.html",
+                    "description": "Harbour, N. (2011, June 3). What the fxsst?. Retrieved November 17, 2020."
+                },
+                {
+                    "source_name": "Microsoft Security Advisory 2269637",
+                    "url": "https://docs.microsoft.com/en-us/security-updates/securityadvisories/2010/2269637",
+                    "description": "Microsoft. (, May 23). Microsoft Security Advisory 2269637. Retrieved March 13, 2020."
+                },
+                {
+                    "source_name": "Microsoft Dynamic-Link Library Redirection",
+                    "url": "https://docs.microsoft.com/en-us/windows/win32/dlls/dynamic-link-library-redirection?redirectedfrom=MSDN",
+                    "description": "Microsoft. (2018, May 31). Dynamic-Link Library Redirection. Retrieved March 13, 2020."
+                },
+                {
+                    "source_name": "Microsoft Manifests",
+                    "description": "Microsoft. (n.d.). Manifests. Retrieved December 5, 2014.",
+                    "url": "https://msdn.microsoft.com/en-US/library/aa375365"
+                },
+                {
+                    "source_name": "FireEye DLL Search Order Hijacking",
+                    "url": "https://www.fireeye.com/blog/threat-research/2010/08/dll-search-order-hijacking-revisited.html",
+                    "description": "Nick Harbour. (2010, September 1). DLL Search Order Hijacking Revisited. Retrieved March 13, 2020."
+                }
+            ],
             "type": "attack-pattern",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
                     "phase_name": "persistence"
+                },
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "privilege-escalation"
+                },
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "defense-evasion"
                 }
             ],
-            "modified": "2021-07-19T15:43:29.624461Z",
-            "created": "2019-12-12T15:08:20.972Z",
-            "x_mitre_detection": "Consider monitoring application logs for abnormal behavior that may indicate suspicious installation of application software components. Consider monitoring file locations associated with the installation of new application software components such as paths from which applications typically load such extensible components.",
-            "x_mitre_data_sources": [
-                "Data Source Veniam: Data Component Excepteur",
-                "Data Source Nulla: Data Component Deserunt"
-            ],
-            "x_mitre_version": "1.0",
-            "x_mitre_is_subtechnique": true,
-            "x_mitre_permissions_required": [
-                "SYSTEM",
-                "Administrator",
-                "root"
+            "modified": "2021-07-19T18:59:38.238203Z",
+            "created": "2020-03-13T18:11:08.357Z",
+            "x_mitre_platforms": [
+                "Windows"
             ],
             "x_mitre_contributors": [
-                "ESET",
-                " Christoffer Str\u00f6mblad"
+                "Travis Smith, Tripwire",
+                "Stefan Kanthak"
+            ],
+            "x_mitre_data_sources": [
+                "Data Source Nulla: Data Component Aliqua",
+                "Data Source Nulla: Data Component Est",
+                "Data Source Ad: Data Component Qui",
+                "Data Source Pariatur: Data Component Incididunt"
+            ],
+            "x_mitre_detection": "Monitor file systems for moving, renaming, replacing, or modifying DLLs. Changes in the set of DLLs that are loaded by a process (compared with past behavior) that do not correlate with known software, patches, etc., are suspicious. Monitor DLLs loaded into a process and detect DLLs that have the same file name but abnormal paths. Modifications to or creation of `.manifest` and `.local` redirection files that do not correlate with software updates are suspicious.",
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_version": "1.1",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "created": "2017-05-31T21:30:20.537Z",
+            "modified": "2021-07-19T18:59:38.238203Z",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "collection"
+                }
+            ],
+            "type": "attack-pattern",
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "url": "https://attack.mitre.org/techniques/T1005",
+                    "external_id": "T1005"
+                }
+            ],
+            "description": "Adversaries may search local system sources, such as file systems or local databases, to find files of interest and sensitive data prior to Exfiltration.\n\nAdversaries may do this using a [Command and Scripting Interpreter](https://attack.mitre.org/techniques/T1059), such as [cmd](https://attack.mitre.org/software/S0106), which has functionality to interact with the file system to gather information. Some adversaries may also use [Automated Collection](https://attack.mitre.org/techniques/T1119) on the local system.\n",
+            "name": "Data from Local System",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "id": "attack-pattern--3c4a2599-71ee-4405-ba1e-0e28414b4bc5",
+            "x_mitre_version": "1.2",
+            "x_mitre_data_sources": [
+                "Data Source Nulla: Data Component Est",
+                "Data Source Pariatur: Data Component Incididunt"
+            ],
+            "x_mitre_detection": "Monitor processes and command-line arguments for actions that could be taken to collect files from a system. Remote access tools with built-in features may interact directly with the Windows API to gather data. Data may also be acquired through Windows system management tools such as [Windows Management Instrumentation](https://attack.mitre.org/techniques/T1047) and [PowerShell](https://attack.mitre.org/techniques/T1059/001).",
+            "x_mitre_system_requirements": [
+                "Privileges to access certain files and directories"
             ],
             "x_mitre_platforms": [
                 "Linux",
+                "macOS",
                 "Windows"
+            ],
+            "x_mitre_is_subtechnique": false,
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "id": "attack-pattern--9efb1ea7-c37b-4595-9640-b7680cd84279",
+            "description": "Adversaries may achieve persistence by adding a program to a startup folder or referencing it with a Registry run key. Adding an entry to the \"run keys\" in the Registry or startup folder will cause the program referenced to be executed when a user logs in. (Citation: Microsoft Run Key) These programs will be executed under the context of the user and will have the account's associated permissions level.\n\nPlacing a program within a startup folder will also cause that program to execute when a user logs in. There is a startup folder location for individual user accounts as well as a system-wide startup folder that will be checked regardless of which user account logs in. The startup folder path for the current user is <code>C:\\Users\\\\[Username]\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup</code>. The startup folder path for all users is <code>C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp</code>.\n\nThe following run keys are created by default on Windows systems:\n\n* <code>HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run</code>\n* <code>HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\RunOnce</code>\n* <code>HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run</code>\n* <code>HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\RunOnce</code>\n\nRun keys may exist under multiple hives.(Citation: Microsoft Wow6432Node 2018)(Citation: Malwarebytes Wow6432Node 2016) The <code>HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\RunOnceEx</code> is also available but is not created by default on Windows Vista and newer. Registry run key entries can reference programs directly or list them as a dependency. (Citation: Microsoft RunOnceEx APR 2018) For example, it is possible to load a DLL at logon using a \"Depend\" key with RunOnceEx: <code>reg add HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnceEx\\0001\\Depend /v 1 /d \"C:\\temp\\evil[.]dll\"</code> (Citation: Oddvar Moe RunOnceEx Mar 2018)\n\nThe following Registry keys can be used to set startup folder items for persistence:\n\n* <code>HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders</code>\n* <code>HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders</code>\n* <code>HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders</code>\n* <code>HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders</code>\n\nThe following Registry keys can control automatic startup of services during boot:\n\n* <code>HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\RunServicesOnce</code>\n* <code>HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\RunServicesOnce</code>\n* <code>HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\RunServices</code>\n* <code>HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\RunServices</code>\n\nUsing policy settings to specify startup programs creates corresponding values in either of two Registry keys:\n\n* <code>HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\Run</code>\n* <code>HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\Run</code>\n\nThe Winlogon key controls actions that occur when a user logs on to a computer running Windows 7. Most of these actions are under the control of the operating system, but you can also add custom actions here. The <code>HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\Userinit</code> and <code>HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\Shell</code> subkeys can automatically launch programs.\n\nPrograms listed in the load value of the registry key <code>HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows</code> run when any user logs on.\n\nBy default, the multistring <code>BootExecute</code> value of the registry key <code>HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager</code> is set to <code>autocheck autochk *</code>. This value causes Windows, at startup, to check the file-system integrity of the hard disks if the system has been shut down abnormally. Adversaries can add other programs or processes to this registry value which will automatically launch at boot.\n\nAdversaries can use these configuration locations to execute malware, such as remote access tools, to maintain persistence through system reboots. Adversaries may also use [Masquerading](https://attack.mitre.org/techniques/T1036) to make the Registry entries look as if they are associated with legitimate programs.",
+            "name": "Registry Run Keys / Startup Folder",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "external_id": "T1547.001",
+                    "url": "https://attack.mitre.org/techniques/T1547/001"
+                },
+                {
+                    "external_id": "CAPEC-270",
+                    "source_name": "capec",
+                    "url": "https://capec.mitre.org/data/definitions/270.html"
+                },
+                {
+                    "url": "http://msdn.microsoft.com/en-us/library/aa376977",
+                    "description": "Microsoft. (n.d.). Run and RunOnce Registry Keys. Retrieved November 12, 2014.",
+                    "source_name": "Microsoft Run Key"
+                },
+                {
+                    "source_name": "Microsoft Wow6432Node 2018",
+                    "url": "https://docs.microsoft.com/en-us/windows/win32/sysinfo/32-bit-and-64-bit-application-data-in-the-registry",
+                    "description": "Microsoft. (2018, May 31). 32-bit and 64-bit Application Data in the Registry. Retrieved August 3, 2020."
+                },
+                {
+                    "source_name": "Malwarebytes Wow6432Node 2016",
+                    "url": "https://blog.malwarebytes.com/cybercrime/2013/10/hiding-in-plain-sight/",
+                    "description": "Arntz, P. (2016, March 30). Hiding in Plain Sight. Retrieved August 3, 2020."
+                },
+                {
+                    "url": "https://support.microsoft.com/help/310593/description-of-the-runonceex-registry-key",
+                    "description": "Microsoft. (2018, August 20). Description of the RunOnceEx Registry Key. Retrieved June 29, 2018.",
+                    "source_name": "Microsoft RunOnceEx APR 2018"
+                },
+                {
+                    "url": "https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/",
+                    "description": "Moe, O. (2018, March 21). Persistence using RunOnceEx - Hidden from Autoruns.exe. Retrieved June 29, 2018.",
+                    "source_name": "Oddvar Moe RunOnceEx Mar 2018"
+                },
+                {
+                    "url": "https://technet.microsoft.com/en-us/sysinternals/bb963902",
+                    "description": "Russinovich, M. (2016, January 4). Autoruns for Windows v13.51. Retrieved June 6, 2016.",
+                    "source_name": "TechNet Autoruns"
+                }
+            ],
+            "type": "attack-pattern",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "persistence"
+                },
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "privilege-escalation"
+                }
+            ],
+            "modified": "2021-07-19T18:59:38.238203Z",
+            "created": "2020-01-23T22:02:48.566Z",
+            "x_mitre_platforms": [
+                "Windows"
+            ],
+            "x_mitre_contributors": [
+                "Oddvar Moe, @oddvarmoe"
+            ],
+            "x_mitre_data_sources": [
+                "Data Source Laborum: Data Component Culpa",
+                "Data Source Pariatur: Data Component Aliquip"
+            ],
+            "x_mitre_detection": "Monitor Registry for changes to run keys that do not correlate with known software, patch cycles, etc. Monitor the start folder for additions or changes. Tools such as Sysinternals Autoruns may also be used to detect system changes that could be attempts at persistence, including listing the run keys' Registry locations and startup folders. (Citation: TechNet Autoruns) Suspicious program execution as startup programs may show up as outlier processes that have not been seen before when compared against historical data.\n\nChanges to these locations typically happen under normal conditions when legitimate software is installed. To increase confidence of malicious activity, data and events should not be viewed in isolation, but as part of a chain of behavior that could lead to other activities, such as network connections made for Command and Control, learning details about the environment through Discovery, and Lateral Movement.",
+            "x_mitre_permissions_required": [
+                "Administrator",
+                "User"
+            ],
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_version": "1.1",
+            "spec_version": "2.1",
+            "x_mitre_domains": [
+                "enterprise-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+        },
+        {
+            "external_references": [
+                {
+                    "source_name": "mitre-attack",
+                    "external_id": "T1608.001",
+                    "url": "https://attack.mitre.org/techniques/T1608/001"
+                },
+                {
+                    "source_name": "Volexity Ocean Lotus November 2020",
+                    "url": "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+                    "description": "Adair, S. and Lancaster, T. (2020, November 6). OceanLotus: Extending Cyber Espionage Operations Through Fake Websites. Retrieved November 20, 2020."
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "name": "Upload Malware",
+            "description": "Adversaries may upload malware to third-party or adversary controlled infrastructure to make it accessible during targeting. Malicious software can include payloads, droppers, post-compromise tools, backdoors, and a variety of other malicious content. Adversaries may upload malware to support their operations, such as making a payload available to a victim network to enable [Ingress Tool Transfer](https://attack.mitre.org/techniques/T1105) by placing it on an Internet accessible web server.\n\nMalware may be placed on infrastructure that was previously purchased/rented by the adversary ([Acquire Infrastructure](https://attack.mitre.org/techniques/T1583)) or was otherwise compromised by them ([Compromise Infrastructure](https://attack.mitre.org/techniques/T1584)). Malware can also be staged on web services, such as GitHub or Pastebin.(Citation: Volexity Ocean Lotus November 2020)\n\nAdversaries may upload backdoored files, such as application binaries, virtual machine images, or container images, to third-party software stores or repositories (ex: GitHub, CNET, AWS Community AMIs, Docker Hub). By chance encounter, victims may directly download/install these backdoored files via [User Execution](https://attack.mitre.org/techniques/T1204). [Masquerading](https://attack.mitre.org/techniques/T1036) may increase the chance of users mistakenly executing these files.",
+            "id": "attack-pattern--3ee16395-03f0-4690-a32e-69ce9ada0f9e",
+            "type": "attack-pattern",
+            "kill_chain_phases": [
+                {
+                    "kill_chain_name": "mitre-attack",
+                    "phase_name": "resource-development"
+                }
+            ],
+            "modified": "2021-07-19T18:59:38.238203Z",
+            "created": "2021-03-17T20:09:13.222Z",
+            "x_mitre_contributors": [
+                "Kobi Haimovich, CardinalOps"
+            ],
+            "x_mitre_detection": "Much of this activity will take place outside the visibility of the target organization, making detection of this behavior difficult. Detection efforts may be focused on post-compromise phases of the adversary lifecycle, such as [User Execution](https://attack.mitre.org/techniques/T1204) or [Ingress Tool Transfer](https://attack.mitre.org/techniques/T1105).",
+            "x_mitre_version": "1.0",
+            "x_mitre_is_subtechnique": true,
+            "x_mitre_platforms": [
+                "PRE"
+            ],
+            "x_mitre_data_sources": [
+                "Data Source Laborum: Data Component Culpa",
+                "Data Source Nulla: Data Component Aliqua",
+                "Data Source Nulla: Data Component Est",
+                "Data Source Ad: Data Component Qui",
+                "Data Source Pariatur: Data Component Aliquip",
+                "Data Source Ea: Data Component Amet"
             ],
             "spec_version": "2.1",
             "x_mitre_domains": [
