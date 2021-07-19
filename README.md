@@ -1,4 +1,4 @@
-# ATT&CK Data sources STIX Beta
+# ATT&CK Data Sources STIX Beta
 
 This repository contains mock STIX data demonstrating the new data sources representation coming in ATT&CK v10. 
 
