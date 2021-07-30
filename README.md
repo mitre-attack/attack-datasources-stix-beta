@@ -23,7 +23,7 @@ Data Sources and Data Components represent data which can be used to detect tech
 - A Data Source can have any number of Data Components.
 - Data Components can map to any number of techniques.
 
-**Note:** Though populated in the example data, the description field on relationships between `x-mitre-data-component`s (data components) and `attack-pattern`s (technique) is optional and may not always appear on those relationships.
+**Note:** Though populated in the example data, the description field on relationships between Data Components and Techniques is optional and may not always appear on those relationships.
 
 The general structure of data sources and data components is as follows:
 
