@@ -167,7 +167,7 @@
             "created": "2021-07-19T18:59:32.328889Z",
             "modified": "2021-07-19T18:59:32.328889Z",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Source Laborum",
+            "name": "Smoke Signal",
             "external_references": [
                 {
                     "external_id": "DS6941",
@@ -190,7 +190,7 @@
                     "url": "https://attack.mitre.org"
                 }
             ],
-            "description": "Fugiat lorem non voluptate, ipsum incididunt culpa exercitation in deserunt irure, eu qui sed sit mollit magna. Nostrud sunt cupidatat aliqua anim aliquip.(Citation: Mcdonald, Cortez and Lawrence)(Citation: Campbell, Caldwell and Ford)(Citation: Fisher Ltd)",
+            "description": "The smoke signal is one of the oldest forms of long-distance communication. It is a form of visual communication used over a long distance. In general smoke signals are used to transmit news, signal danger, or to gather people to a common area.(Citation: Mcdonald, Cortez and Lawrence)(Citation: Campbell, Caldwell and Ford)(Citation: Fisher Ltd)",
             "x_mitre_platforms": [
                 "macOS",
                 "Network",
@@ -391,7 +391,7 @@
             "created": "2021-07-19T18:59:32.338891Z",
             "modified": "2021-07-19T18:59:32.338891Z",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Data Component Culpa",
+            "name": "Smoke Signal: Smoke Volume",
             "x_mitre_data_source_ref": "x-mitre-data-source--6da9ab38-437f-4e2f-b24c-f0da3a8ce441",
             "external_references": [
                 {
@@ -405,7 +405,7 @@
                     "url": "https://attack.mitre.org"
                 }
             ],
-            "description": "Irure sit elit dolor. Aliquip aute anim laboris.(Citation: Anderson-Cohen)(Citation: Ferguson PLC)",
+            "description": "Amount of space the smoke signal occupies, used as an indicator of the amount of \"hot air\" within a specified space.(Citation: Anderson-Cohen)(Citation: Ferguson PLC)",
             "spec_version": "2.1",
             "x_mitre_domains": [
                 "enterprise-attack"
@@ -602,7 +602,7 @@
                     "url": "https://attack.mitre.org"
                 }
             ],
-            "description": "Quis consectetur pariatur mollit tempor aliquip voluptate do. Aliqua dolore pariatur duis esse.(Citation: Williams and Sons)(Citation: West-Ellison)",
+            "description": "Smoke volume can be used to enumerate the location and placement of naughty Run keys.(Citation: Williams and Sons)(Citation: West-Ellison)",
             "x_mitre_version": "1.0",
             "spec_version": "2.1",
             "x_mitre_domains": [
@@ -626,7 +626,7 @@
                     "url": "https://attack.mitre.org"
                 }
             ],
-            "description": "Incididunt minim ad tempor cupidatat. Eiusmod sint magna dolor laborum do, voluptate id aliqua reprehenderit.(Citation: Buck and Sons)",
+            "description": "Smoke volume can be used to enumerate the existence of icky codez.(Citation: Buck and Sons)",
             "x_mitre_version": "1.0",
             "spec_version": "2.1",
             "x_mitre_domains": [
@@ -650,7 +650,7 @@
                     "url": "https://attack.mitre.org"
                 }
             ],
-            "description": "Eu fugiat veniam mollit occaecat ad. Et aute sint magna in cupidatat ullamco eu.(Citation: Hill, Compton and Gay)",
+            "description": "High smoke volume levels may be produced when cloud control planes are exhausted with fumes.(Citation: Hill, Compton and Gay)",
             "x_mitre_version": "1.0",
             "spec_version": "2.1",
             "x_mitre_domains": [
@@ -1156,7 +1156,7 @@
             ],
             "x_mitre_detection": "Establish centralized logging for the activity of cloud infrastructure components. Monitor logs for actions that could be taken to gather information about cloud infrastructure, including the use of discovery API calls by new or unexpected users. To reduce false positives, valid change management procedures could introduce a known identifier that is logged with the change (e.g., tag or header) if supported by the cloud provider, to help distinguish valid, expected actions from malicious ones.",
             "x_mitre_data_sources": [
-                "Data Source Laborum: Data Component Culpa",
+                "Smoke Signal: Smoke Volume",
                 "Data Source Nulla: Data Component Aliqua",
                 "Data Source Ad: Data Component Qui",
                 "Data Source Pariatur: Data Component Incididunt",
@@ -1385,7 +1385,7 @@
                 "Oddvar Moe, @oddvarmoe"
             ],
             "x_mitre_data_sources": [
-                "Data Source Laborum: Data Component Culpa",
+                "Smoke Signal: Smoke Volume",
                 "Data Source Pariatur: Data Component Aliquip"
             ],
             "x_mitre_detection": "Monitor Registry for changes to run keys that do not correlate with known software, patch cycles, etc. Monitor the start folder for additions or changes. Tools such as Sysinternals Autoruns may also be used to detect system changes that could be attempts at persistence, including listing the run keys' Registry locations and startup folders. (Citation: TechNet Autoruns) Suspicious program execution as startup programs may show up as outlier processes that have not been seen before when compared against historical data.\n\nChanges to these locations typically happen under normal conditions when legitimate software is installed. To increase confidence of malicious activity, data and events should not be viewed in isolation, but as part of a chain of behavior that could lead to other activities, such as network connections made for Command and Control, learning details about the environment through Discovery, and Lateral Movement.",
@@ -1440,7 +1440,7 @@
                 "PRE"
             ],
             "x_mitre_data_sources": [
-                "Data Source Laborum: Data Component Culpa",
+                "Smoke Signal: Smoke Volume",
                 "Data Source Nulla: Data Component Aliqua",
                 "Data Source Nulla: Data Component Est",
                 "Data Source Ad: Data Component Qui",
