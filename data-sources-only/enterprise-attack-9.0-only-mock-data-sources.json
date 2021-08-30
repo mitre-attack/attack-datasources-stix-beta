@@ -208,7 +208,7 @@
             "created": "2021-07-19T18:59:32.338891Z",
             "modified": "2021-07-19T18:59:32.338891Z",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "name": "Smoke Signal: Smoke Volume",
+            "name": "Smoke Volume",
             "x_mitre_data_source_ref": "x-mitre-data-source--6da9ab38-437f-4e2f-b24c-f0da3a8ce441",
             "external_references": [
                 {
